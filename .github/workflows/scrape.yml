@@ -4,7 +4,7 @@ name: Auto Scrape Blogs
 on:
   schedule:
     # 毎日 日本時間の 朝9時 と 夜21時 に実行（※UTC指定なので9時間引いた時間を書きます）
-    - cron: '0 0,12 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # GitHubの画面から手動で「今すぐ実行」できるボタンを有効にする
 
 jobs:
