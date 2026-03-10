@@ -9,7 +9,7 @@ base_url = "https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&p
 blog_list = []
 
 # 取得するページ数を指定（ここでは例として、最新の3ページ分を取得します）
-target_pages = 3
+target_pages = 500
 
 print(f"全メンバーのブログを {target_pages} ページ分取得します...")
 
