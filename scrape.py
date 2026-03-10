@@ -1,34 +1,27 @@
 import requests
 from bs4 import BeautifulSoup, NavigableString
 import json
-import time # 追加：サーバーへの負荷を軽減するための待機用
+import time
+import os # 追加：ファイルの存在確認などに使います
 
-# 全メンバーのブログ一覧のベースURL（ページ番号を後で付け足します）
 base_url = "https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&page="
 
-blog_list = []
+# 過去のデータは各年のJSONに蓄積されるため、毎回取得するのは最新の1ページだけで十分になります！
+target_pages = 1 
 
-# 取得するページ数を指定（ここでは例として、最新の3ページ分を取得します）
-target_pages = 500
+print(f"最新の {target_pages} ページを取得し、年別のJSONに追記します...")
 
-print(f"全メンバーのブログを {target_pages} ページ分取得します...")
+new_articles = []
 
 for page in range(target_pages):
-    print(f"--- {page + 1}ページ目を取得中 ---")
-    
-    # URLにページ番号（0, 1, 2...）をくっつける
     url = base_url + str(page)
-    
     try:
         response = requests.get(url)
         response.encoding = response.apparent_encoding
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # 記事のまとまりを全て取得
         articles = soup.find_all('div', class_='p-blog-article')
-        
         if not articles:
-            print("この記事ページにはデータがありませんでした。")
             break
 
         for article in articles:
@@ -38,7 +31,6 @@ for page in range(target_pages):
                 author = article.find('div', class_='c-blog-article__name').text.strip()
                 text_area = article.find('div', class_='c-blog-article__text')
                 
-                # <br>タグを実際の改行（\n）に変換
                 for br in text_area.find_all("br"):
                     br.replace_with("\n")
                     
@@ -73,6 +65,9 @@ for page in range(target_pages):
                 detail_link = article.find('a', class_='c-button-blog-detail')
                 article_id = detail_link['href'].split('detail/')[1].split('?')[0] if detail_link else "unknown"
 
+                # 【重要】日付（例: 2026.3.10）から「年」だけを抽出する
+                year = date.split('.')[0]
+
                 blog_data = {
                     "id": article_id,
                     "author": author,
@@ -80,25 +75,59 @@ for page in range(target_pages):
                     "date": date,
                     "excerpt": excerpt,
                     "blocks": blocks,
-                    "imageUrls": image_urls
+                    "imageUrls": image_urls,
+                    "year": year # 年の情報をデータに追加
                 }
                 
-                blog_list.append(blog_data)
+                new_articles.append(blog_data)
                 
             except Exception as e:
-                print(f"個別の記事解析中にエラー: {e}")
                 continue
                 
-        # 【重要】スクレイピングのマナー
-        # 次のページにアクセスする前に1秒間待機し、サーバーに負荷をかけないようにします
         time.sleep(1)
 
     except Exception as e:
-        print(f"ページ取得中にエラーが発生しました: {e}")
         break
 
-# JSONファイルとして保存
-with open('blogs.json', 'w', encoding='utf-8') as f:
-    json.dump(blog_list, f, ensure_ascii=False, indent=4)
+# 年ごとにデータを振り分ける
+articles_by_year = {}
+for article in new_articles:
+    year = article['year']
+    if year not in articles_by_year:
+        articles_by_year[year] = []
+    articles_by_year[year].append(article)
 
-print(f"\n完了！合計 {len(blog_list)} 件のブログを 'blogs.json' に保存しました。")
+# 各年のJSONファイルを読み込み、新しい記事を合体させて保存する
+for year, articles in articles_by_year.items():
+    filename = f"blogs_{year}.json" # 年別のファイル名（例: blogs_2026.json）
+    existing_data = []
+    
+    # すでにその年のJSONファイルがMacやGitHub内にあれば読み込む
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            try:
+                existing_data = json.load(f)
+            except:
+                existing_data = []
+                
+    # 既存のデータと新しいデータを結合（重複排除）
+    # 記事のIDをキーにすることで、全く同じ記事が2回保存されるのを防ぎます
+    merged_dict = {item['id']: item for item in existing_data}
+    for item in articles:
+        merged_dict[item['id']] = item
+        
+    merged_list = list(merged_dict.values())
+    
+    # IDの数字が大きい（新しい）順に並び替える
+    try:
+        merged_list.sort(key=lambda x: int(x['id']) if x['id'].isdigit() else 0, reverse=True)
+    except:
+        pass
+
+    # JSONファイルとして上書き保存
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(merged_list, f, ensure_ascii=False, indent=4)
+        
+    print(f"{filename} を更新しました！（合計 {len(merged_list)} 件）")
+
+print("\n差分更新と年別JSONへの分割が完了しました！")

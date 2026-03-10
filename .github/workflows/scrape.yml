@@ -34,6 +34,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add blogs.json
-          # 変更がある場合のみコミットしてプッシュする
+          git add blogs_*.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "ブログのデータを自動更新" && git push)
