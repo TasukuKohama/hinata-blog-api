@@ -15,7 +15,7 @@ for page in range(target_pages):
     url = base_url + str(page)
     try:
         response = requests.get(url)
-        response.encoding = response.apparent_encoding
+        response.encoding = 'utf-8'
         soup = BeautifulSoup(response.text, 'html.parser')
         
         articles = soup.find_all('div', class_='p-blog-article')
