@@ -7,7 +7,7 @@ import os # 追加：ファイルの存在確認などに使います
 base_url = "https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&page="
 
 # 過去のデータは各年のJSONに蓄積されるため、毎回取得するのは最新の1ページだけで十分になります！
-target_pages = 1 
+target_pages = 380 
 
 print(f"最新の {target_pages} ページを取得し、年別のJSONに追記します...")
 
