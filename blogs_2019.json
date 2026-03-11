@@ -19785,10 +19785,6 @@
             },
             {
                 "type": "image",
-                "value": ""
-            },
-            {
-                "type": "image",
                 "value": "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201903/mobS7G35P.jpg"
             },
             {
@@ -19803,7 +19799,6 @@
         "imageUrls": [
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201903/mobcm0Qk3.jpg",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201903/mobghHoUq.jpg",
-            "",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201903/mobS7G35P.jpg",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201903/mobeBClfg.jpg"
         ],
@@ -21786,10 +21781,6 @@
             },
             {
                 "type": "image",
-                "value": ""
-            },
-            {
-                "type": "image",
                 "value": "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201902/mobJ05wPF.jpg"
             },
             {
@@ -21802,7 +21793,6 @@
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201902/mobDWP9Zh.jpg",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201902/mobhkgExJ.jpg",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201902/mobDGasec.jpg",
-            "",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201902/mobJ05wPF.jpg"
         ],
         "year": "2019"
@@ -22874,19 +22864,11 @@
         "author": "松田 好花",
         "title": "暖房をつけるなら厚着する派です、皆さんはどうですか？ そして明日は！",
         "date": "2019.1.24 01:12",
-        "excerpt": "こんにちは！  けやき坂46 2期生 京都府出身の松田好花です☺️...",
+        "excerpt": "こんにちは！  けやき坂46 2期生 京都府出身の松田好花です☺️     外ハ...",
         "blocks": [
             {
                 "type": "text",
-                "value": "こんにちは！\n\nけやき坂46 2期生\n京都府出身の松田好花です☺️"
-            },
-            {
-                "type": "image",
-                "value": ""
-            },
-            {
-                "type": "text",
-                "value": "外ハネ〜"
+                "value": "こんにちは！\n\nけやき坂46 2期生\n京都府出身の松田好花です☺️\n\n\n\n\n外ハネ〜"
             },
             {
                 "type": "image",
@@ -22906,7 +22888,6 @@
             }
         ],
         "imageUrls": [
-            "",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201901/mobD7KCSk.jpg",
             "https://cdn.hinatazaka46.com/files/14/diary/k46/member/moblog/201901/mob9I9nYC.jpg"
         ],
