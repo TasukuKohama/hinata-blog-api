@@ -31,6 +31,13 @@ for page in range(target_pages):
                 author = article.find('div', class_='c-blog-article__name').text.strip()
                 text_area = article.find('div', class_='c-blog-article__text')
                 
+                # --- ここから抽出ロジックを強力にアップデート ---
+                
+                # 1. 不要なタグ（scriptやstyleなど、見えない裏側のコード）を事前に削除
+                for hidden_tag in text_area(["script", "style"]):
+                    hidden_tag.decompose()
+
+                # 2. 改行タグ（<br>）を文字の改行（\n）に変換
                 for br in text_area.find_all("br"):
                     br.replace_with("\n")
                     
@@ -38,34 +45,51 @@ for page in range(target_pages):
                 image_urls = []
                 current_text = ""
                 
+                # 3. ブログ本文の中身を順番にチェックしていく
                 for element in text_area.descendants:
+                    # もし「文字」だった場合
                     if isinstance(element, NavigableString):
-                        text = str(element).strip(" \t\r")
+                        text = str(element).strip(" \t\r") # 余分な空白だけを消す
                         if text:
                             current_text += text
+                            
+                    # もし「画像」だった場合
                     elif element.name == 'img':
-                        if current_text.strip():
-                            blocks.append({"type": "text", "value": current_text.strip()})
-                            current_text = ""
+                        # 遅延読み込み（data-src等）があればそちらを優先して本物のURLを取得
+                        img_url = element.get('data-src') or element.get('src') or ""
                         
-                        if 'src' in element.attrs:
-                            img_url = element['src']
+                        if img_url:
+                            # サイト特有の「絵文字画像」や「アイコン」のURLパターンを除外する
+                            # ※URLに emoji や decopic などの文字が含まれていたら無視して次に進む
+                            if 'emoji' in img_url or 'decopic' in img_url or 'icon' in img_url:
+                                continue 
+                            
+                            # 本物の写真だった場合、それまでの文章を一旦ブロックとして保存
+                            if current_text.strip():
+                                blocks.append({"type": "text", "value": current_text.strip()})
+                                current_text = ""
+                            
+                            # 画像をブロックとして保存
                             blocks.append({"type": "image", "value": img_url})
                             image_urls.append(img_url)
                             
+                # 最後に残った文章があればブロックとして保存
                 if current_text.strip():
                     blocks.append({"type": "text", "value": current_text.strip()})
                     
+                # プレビュー用の抜粋文を作成（空白や改行を綺麗にする）
                 excerpt = "プレビューがありません"
                 for b in blocks:
                     if b["type"] == "text":
-                        excerpt = b["value"][:40].replace('\n', ' ') + "..."
+                        # 改行を消して最初の40文字をプレビューにする
+                        clean_text = b["value"].replace('\n', ' ').replace('\r', '')
+                        excerpt = clean_text[:40] + "..."
                         break
+                
+                # --- アップデートここまで ---
 
                 detail_link = article.find('a', class_='c-button-blog-detail')
                 article_id = detail_link['href'].split('detail/')[1].split('?')[0] if detail_link else "unknown"
-
-                # 【重要】日付（例: 2026.3.10）から「年」だけを抽出する
                 year = date.split('.')[0]
 
                 blog_data = {
