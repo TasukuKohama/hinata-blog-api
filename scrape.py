@@ -46,38 +46,42 @@ for page in range(target_pages):
                     else:
                         article_id = href.split('/')[-1].split('?')[0] # 予備の抽出方法
 
-                # 3. 本文と画像の抽出（アップデート版）
+                # 3. 本文と画像の抽出（超安定版！）
                 text_area = article.find('div', class_='c-blog-article__text')
                 blocks = []
                 image_urls = []
                 
                 if text_area:
-                    # 見えない裏側のタグを削除
-                    for hidden_tag in text_area(["script", "style"]):
-                        hidden_tag.decompose()
-
-                    for br in text_area.find_all("br"):
-                        br.replace_with("\n")
-                        
                     current_text = ""
+                    # HTMLの構造を破壊せず、上から順番に要素を見ていく
                     for element in text_area.descendants:
                         if isinstance(element, NavigableString):
+                            # scriptやstyleの中身（裏側のコード）は無視
+                            if element.parent and element.parent.name in ['script', 'style']:
+                                continue
                             text = str(element).strip(" \t\r")
                             if text:
                                 current_text += text
+                        elif element.name == 'br':
+                            # <br>タグを見つけたら、テキストに改行を足すだけ（構造は弄らない）
+                            current_text += "\n"
                         elif element.name == 'img':
                             img_url = element.get('data-src') or element.get('src') or ""
                             if img_url:
+                                # 絵文字などの不要な画像はスキップ
                                 if 'emoji' in img_url or 'decopic' in img_url or 'icon' in img_url:
                                     continue
                                 
+                                # 画像の前に溜まっていたテキストがあればブロックとして保存
                                 if current_text.strip():
                                     blocks.append({"type": "text", "value": current_text.strip()})
                                     current_text = ""
                                 
+                                # 画像をブロックとして保存
                                 blocks.append({"type": "image", "value": img_url})
                                 image_urls.append(img_url)
                                 
+                    # 最後に残ったテキストがあれば保存
                     if current_text.strip():
                         blocks.append({"type": "text", "value": current_text.strip()})
                         
@@ -86,9 +90,11 @@ for page in range(target_pages):
                 for b in blocks:
                     if b["type"] == "text":
                         clean_text = b["value"].replace('\n', ' ').replace('\r', '')
+                        # 連続する空白を綺麗にまとめる
+                        clean_text = " ".join(clean_text.split())
                         excerpt = clean_text[:40] + "..."
                         break
-
+                        
                 blog_data = {
                     "id": article_id,
                     "author": author,
