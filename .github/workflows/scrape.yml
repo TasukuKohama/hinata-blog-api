@@ -29,6 +29,10 @@ jobs:
 
       - name: 4. スクレイピングの実行（blogs.jsonが作られる）
         run: python scrape.py
+      
+      # ★追加：スケジュールのスクレイピングも実行する
+      - name: 4.5. スケジュールのスクレイピングを実行
+        run: python scrape_schedule.py
 
       - name: 5. 変更があればGitHubに保存（コミット＆プッシュ）
         run: |
@@ -36,3 +40,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add blogs_*.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "ブログのデータを自動更新" && git push)
+          git add blogs_*.json schedule.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "データ自動更新" && git push)
