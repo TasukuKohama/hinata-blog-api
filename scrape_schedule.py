@@ -3,21 +3,47 @@ from bs4 import BeautifulSoup
 import json
 import datetime
 import time
+import os
 
-print("公式スケジュールの複数月取得を開始します...")
+# ★ 超重要スイッチ：初回の一括取得用
+# Trueにすると2019年からの全データを取得します。完了後は必ず False に戻してください。
+FETCH_ALL_PAST = True
 
-# ① 取得したい月（過去3ヶ月〜未来3ヶ月）を自動計算してリストにする
+print("公式スケジュールの取得を開始します...")
+
 target_months = []
 today = datetime.date.today()
-for i in range(-3, 4): # -3, -2, -1, 0, 1, 2, 3
-    m = today.month + i
-    y = today.year + (m - 1) // 12
-    m = (m - 1) % 12 + 1
-    target_months.append(f"{y}{m:02d}") # 例: "202603"
+
+# ① 取得する月のリストを自動計算する
+if FETCH_ALL_PAST:
+    # 日向坂46改名（2019年2月）に合わせて、2019年1月から取得スタート
+    start_year = 2019
+    start_month = 1
+else:
+    # 通常の更新時は「先月」からスタート（急な過去の予定変更にも対応するため）
+    last_month_date = today.replace(day=1) - datetime.timedelta(days=1)
+    start_year = last_month_date.year
+    start_month = last_month_date.month
+
+# 終了は「現在から未来3ヶ月後」まで
+end_year = today.year
+end_month = today.month + 3
+if end_month > 12:
+    end_month -= 12
+    end_year += 1
+
+# 対象となる「YYYYMM」のリストを作成
+y, m = start_year, start_month
+while (y < end_year) or (y == end_year and m <= end_month):
+    target_months.append(f"{y}{m:02d}")
+    m += 1
+    if m > 12:
+        m = 1
+        y += 1
 
 all_schedules = []
 
-# ② 計算した月ごとに順番にWebサイトへアクセスする
+# ② 月ごとにスクレイピングを実行
 for yyyymm in target_months:
     url = f"https://www.hinatazaka46.com/s/official/media/list?ima=0000&dy={yyyymm}"
     print(f"{yyyymm[:4]}年{yyyymm[4:]}月のスケジュールを取得中...")
@@ -68,19 +94,45 @@ for yyyymm in target_months:
                 }
                 all_schedules.append(schedule_data)
                 
-        # サーバーに負荷をかけないよう、1ページ取得したら1秒待機する
+        # サーバー負荷軽減のため1秒待機
         time.sleep(1)
         
     except Exception as e:
         print(f"{yyyymm} の取得中にエラーが発生しました: {e}")
 
-# ③ 万が一の重複を排除して、日付順（カレンダー通り）に並び替える
-unique_schedules = list({ item['id']: item for item in all_schedules }.values())
-sorted_schedules = sorted(unique_schedules, key=lambda x: (x['date'], x['time']))
+# ③ 取得した全データを「年」ごとに振り分ける
+schedules_by_year = {}
+for item in all_schedules:
+    year = item['date'][:4] # "2026-03-12" から "2026" を取り出す
+    if year not in schedules_by_year:
+        schedules_by_year[year] = []
+    schedules_by_year[year].append(item)
 
-# ④ 1つの巨大なJSONファイルとして保存
-filename = "schedule.json"
-with open(filename, 'w', encoding='utf-8') as f:
-    json.dump(sorted_schedules, f, ensure_ascii=False, indent=4)
+# ④ 年ごとのJSONファイルに保存する
+for year, items in schedules_by_year.items():
+    filename = f"schedule_{year}.json"
+    existing_data = []
     
-print(f"スケジュール合計 {len(sorted_schedules)} 件を取得し、{filename} に保存しました！")
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            try:
+                existing_data = json.load(f)
+            except:
+                pass
+                
+    # 重複を排除して結合
+    merged_dict = {i['id']: i for i in existing_data}
+    for i in items:
+        merged_dict[i['id']] = i
+        
+    merged_list = list(merged_dict.values())
+    
+    # 日付と時間で綺麗に並び替える
+    merged_list.sort(key=lambda x: (x['date'], x['time']))
+    
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(merged_list, f, ensure_ascii=False, indent=4)
+        
+    print(f"{filename} を更新しました！（合計 {len(merged_list)} 件）")
+
+print("\nスケジュールの年別取得が完了しました！")
