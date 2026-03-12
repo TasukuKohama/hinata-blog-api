@@ -5,7 +5,7 @@ import time
 import os
 
 base_url = "https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&page="
-target_pages = 380  # 過去の漏れた記事も回収するため、50ページ分取得します
+target_pages = 2  # 過去の漏れた記事も回収するため、50ページ分取得します
 
 print(f"最新の {target_pages} ページを取得し、年別のJSONに追記します...")
 
@@ -94,7 +94,7 @@ for page in range(target_pages):
                         clean_text = " ".join(clean_text.split())
                         excerpt = clean_text[:40] + "..."
                         break
-                        
+
                 blog_data = {
                     "id": article_id,
                     "author": author,
