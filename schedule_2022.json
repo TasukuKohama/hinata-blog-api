@@ -5,7 +5,12 @@
         "category": "テレビ",
         "time": "",
         "title": "テレビ朝日「芸能人格付けチェック！2022お正月スペシャル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5607?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5607?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "佐々木 久美",
+            "金村 美玖"
+        ]
     },
     {
         "id": "5775",
@@ -13,7 +18,8 @@
         "category": "リリース",
         "time": "",
         "title": "第2弾「ひらがな推し」Blu-ray",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5775?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5775?ima=0000",
+        "members": []
     },
     {
         "id": "5777",
@@ -21,7 +27,11 @@
         "category": "テレビ",
         "time": "23:20～",
         "title": "NHK総合「SONGS OF TOKYO Festival 2021」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5777?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5777?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5778",
@@ -29,7 +39,8 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「再現できたら100万円!THE神業チャレンジ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5778?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5778?ima=0000",
+        "members": []
     },
     {
         "id": "5779",
@@ -37,7 +48,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年サンデー」6号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5779?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5779?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "5784",
@@ -45,7 +59,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年チャンピオン」No.6",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5784?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5784?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5783",
@@ -53,7 +70,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊ヤングジャンプ」No.6・7",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5783?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5783?ima=0000",
+        "members": [
+            "東村 芽依"
+        ]
     },
     {
         "id": "5795",
@@ -61,7 +81,20 @@
         "category": "テレビ",
         "time": "22:00～",
         "title": "フジテレビ「火曜は全力!華大さんと千鳥くん」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5795?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5795?ima=0000",
+        "members": [
+            "影山 優佳",
+            "加藤 史帆",
+            "齊藤 京子",
+            "佐々木 久美",
+            "佐々木 美玲",
+            "高本 彩花",
+            "金村 美玖",
+            "丹生 明里",
+            "濱岸 ひより",
+            "松田 好花",
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "5797",
@@ -69,7 +102,10 @@
         "category": "テレビ",
         "time": "23:06～",
         "title": "テレビ東京「23時の密着テレビ『レベチな人、見つけた』」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5797?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5797?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "5796",
@@ -77,7 +113,11 @@
         "category": "ラジオ",
         "time": "23:45～25:00",
         "title": "文化放送「レコメン!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5796?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5796?ima=0000",
+        "members": [
+            "影山 優佳",
+            "河田 陽菜"
+        ]
     },
     {
         "id": "5799",
@@ -85,7 +125,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「ar」2月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5799?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5799?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5798",
@@ -93,7 +136,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(山口陽世)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5798?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5798?ima=0000",
+        "members": [
+            "山口 陽世"
+        ]
     },
     {
         "id": "5802",
@@ -101,7 +147,10 @@
         "category": "テレビ",
         "time": "24:15～",
         "title": "テレビ朝日「かまいガチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5802?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5802?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "5446",
@@ -109,7 +158,8 @@
         "category": "ライブ",
         "time": "20:30～",
         "title": "6thシングル「ってか」発売記念ミニライブ(アーカイブ配信)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5446?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5446?ima=0000",
+        "members": []
     },
     {
         "id": "5807",
@@ -117,7 +167,10 @@
         "category": "テレビ",
         "time": "24:30～",
         "title": "日本テレビ「解禁コネコネクラブ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5807?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5807?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5810",
@@ -125,7 +178,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "SHOWROOM配信(森本茉莉)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5810?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5810?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "5817",
@@ -133,7 +189,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "NHK-BS1「熱血バスケ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5817?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5817?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "5624",
@@ -141,7 +200,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5624?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5624?ima=0000",
+        "members": [
+            "松田 好花",
+            "森本 茉莉"
+        ]
     },
     {
         "id": "5199",
@@ -149,7 +212,10 @@
         "category": "ラジオ",
         "time": "23:45～25:00",
         "title": "文化放送「レコメン!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5199?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5199?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "5821",
@@ -157,7 +223,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年マガジン」8号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5821?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5821?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "5822",
@@ -165,7 +234,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「non-no」3月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5822?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5822?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "4354",
@@ -173,7 +245,10 @@
         "category": "テレビ",
         "time": "24:15～",
         "title": "テレビ朝日「キョコロヒー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/4354?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/4354?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5819",
@@ -181,7 +256,10 @@
         "category": "ラジオ",
         "time": "25:00～",
         "title": "ニッポン放送「乃木坂46のオールナイトニッポン」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5819?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5819?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "5828",
@@ -189,7 +267,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(上村ひなの)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5828?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5828?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "5837",
@@ -197,7 +278,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」3月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5837?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5837?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "5838",
@@ -205,7 +289,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Ray」3月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5838?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5838?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5811",
@@ -213,7 +300,10 @@
         "category": "イベント",
         "time": "19:00～",
         "title": "「アイドル歌会＠2022新年会」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5811?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5811?ima=0000",
+        "members": [
+            "宮田 愛萌"
+        ]
     },
     {
         "id": "5825",
@@ -221,7 +311,10 @@
         "category": "テレビ",
         "time": "24:50～",
         "title": "日本テレビ「解禁コネコネクラブ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5825?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5825?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5836",
@@ -229,7 +322,10 @@
         "category": "配信",
         "time": "18:00～",
         "title": "SHOWROOM配信(佐々木美玲)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5836?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5836?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5831",
@@ -237,7 +333,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "フジテレビ「芸能人が本気で考えた！ドッキリGP」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5831?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5831?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "5829",
@@ -245,7 +344,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "SHOWROOM配信(佐々木久美)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5829?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5829?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5830",
@@ -253,7 +355,10 @@
         "category": "配信",
         "time": "17:00～",
         "title": "SHOWROOM配信(宮田愛萌)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5830?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5830?ima=0000",
+        "members": [
+            "宮田 愛萌"
+        ]
     },
     {
         "id": "5840",
@@ -261,7 +366,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "テレビ朝日「ナニコレ珍百景」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5840?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5840?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "丹生 明里"
+        ]
     },
     {
         "id": "5841",
@@ -269,7 +378,10 @@
         "category": "テレビ",
         "time": "22:00～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5841?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5841?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "5842",
@@ -277,7 +389,10 @@
         "category": "ラジオ",
         "time": "25:30～",
         "title": "ニッポン放送「佐藤満春のあなたの話、聴かせてください」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5842?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5842?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "5844",
@@ -285,7 +400,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「クイズ！THE違和感」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5844?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5844?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5854",
@@ -293,7 +412,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "河田陽菜1st写真集発売記念SHOWROOM",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5854?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5854?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "5856",
@@ -301,7 +423,11 @@
         "category": "ラジオ",
         "time": "23:45～25:00",
         "title": "文化放送「レコメン!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5856?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5856?ima=0000",
+        "members": [
+            "潮 紗理菜",
+            "加藤 史帆"
+        ]
     },
     {
         "id": "5845",
@@ -309,7 +435,10 @@
         "category": "テレビ",
         "time": "24:20～",
         "title": "テレビ朝日「2分59秒」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5845?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5845?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5860",
@@ -317,7 +446,10 @@
         "category": "配信",
         "time": "",
         "title": "DAZN「内田篤人のFOOTBALL TIME」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5860?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5860?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5834",
@@ -325,7 +457,11 @@
         "category": "配信",
         "time": "19:00～",
         "title": "SHOWROOM配信(髙橋未来虹)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5834?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5834?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "5861",
@@ -333,7 +469,10 @@
         "category": "テレビ",
         "time": "24:30～",
         "title": "日本テレビ「解禁コネコネクラブ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5861?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5861?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5868",
@@ -341,7 +480,10 @@
         "category": "テレビ",
         "time": "8:00～",
         "title": "TBS「ラヴィット！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5868?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5868?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5862",
@@ -349,7 +491,10 @@
         "category": "配信",
         "time": "12:00～",
         "title": "Ｊリーグ公式YouTubeチャンネル、ひかりTV他「FIFA 22 グローバルシリーズ eＪリーグ Powered by plala」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5862?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5862?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5863",
@@ -357,7 +502,10 @@
         "category": "ラジオ",
         "time": "18:00～",
         "title": "文化放送「文化放送サタデープレミアム まなもの部屋 with 石原夏織」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5863?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5863?ima=0000",
+        "members": [
+            "宮田 愛萌"
+        ]
     },
     {
         "id": "5864",
@@ -365,7 +513,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「バナナマンのせっかくグルメ！！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5864?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5864?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "5865",
@@ -373,7 +524,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5865?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5865?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "5869",
@@ -381,7 +535,10 @@
         "category": "テレビ",
         "time": "18:55～19:25",
         "title": "NHK Eテレ「沼にハマってきいてみた」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5869?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5869?ima=0000",
+        "members": [
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "5866",
@@ -389,7 +546,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5866?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5866?ima=0000",
+        "members": [
+            "金村 美玖",
+            "濱岸 ひより"
+        ]
     },
     {
         "id": "5883",
@@ -397,7 +558,10 @@
         "category": "ラジオ",
         "time": "27:00～",
         "title": "ニッポン放送「オールナイトニッポン0」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5883?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5883?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "5875",
@@ -405,7 +569,10 @@
         "category": "配信",
         "time": "18:55～",
         "title": "SHOWROOM配信(影山優佳)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5875?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5875?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5877",
@@ -413,7 +580,10 @@
         "category": "テレビ",
         "time": "19:56～",
         "title": "日本テレビ「踊る！さんま御殿!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5877?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5877?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5876",
@@ -421,7 +591,10 @@
         "category": "テレビ",
         "time": "23:27～",
         "title": "朝日放送テレビ「相席食堂」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5876?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5876?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "5833",
@@ -429,7 +602,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(加藤史帆)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5833?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5833?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "5884",
@@ -437,7 +613,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「THE突破ファイル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5884?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5884?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5447",
@@ -445,7 +624,8 @@
         "category": "ライブ",
         "time": "20:30～",
         "title": "6thシングル「ってか」発売記念ミニライブ(メンバー解説付き)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5447?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5447?ima=0000",
+        "members": []
     },
     {
         "id": "5886",
@@ -453,7 +633,11 @@
         "category": "テレビ",
         "time": "26:40～",
         "title": "テレビ朝日「あるある土佐カンパニー 2」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5886?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5886?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "高本 彩花"
+        ]
     },
     {
         "id": "5891",
@@ -461,7 +645,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5891?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5891?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5901",
@@ -469,7 +656,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "フジテレビ「潜在能力テスト」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5901?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5901?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5905",
@@ -477,7 +667,10 @@
         "category": "テレビ",
         "time": "8:00～",
         "title": "TBS「ラヴィット！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5905?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5905?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "5925",
@@ -485,7 +678,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「ar」3月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5925?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5925?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5921",
@@ -493,7 +689,10 @@
         "category": "配信",
         "time": "",
         "title": "DAZN「内田篤人のFOOTBALL TIME」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5921?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5921?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5922",
@@ -501,7 +700,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「あなたはこの衝撃に耐えられる？ワールドドキドキビデオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5922?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5922?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5929",
@@ -509,7 +711,10 @@
         "category": "テレビ",
         "time": "22:00～",
         "title": "TBS「日曜日の初耳学」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5929?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5929?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5930",
@@ -517,7 +722,10 @@
         "category": "テレビ",
         "time": "21:00～",
         "title": "BS日テレ「友近・礼二の妄想トレイン」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5930?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5930?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5920",
@@ -525,7 +733,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(齊藤京子)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5920?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5920?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5939",
@@ -533,7 +744,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「EX大衆」3月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5939?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5939?ima=0000",
+        "members": [
+            "高瀬 愛奈",
+            "高本 彩花",
+            "富田 鈴花"
+        ]
     },
     {
         "id": "5940",
@@ -541,7 +757,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「ザ！世界仰天ニュース」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5940?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5940?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "5937",
@@ -549,7 +768,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(丹生明里)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5937?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5937?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "5942",
@@ -557,7 +779,11 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年マガジン」12号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5942?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5942?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "丹生 明里"
+        ]
     },
     {
         "id": "5943",
@@ -565,7 +791,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「テレビライフ」4号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5943?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5943?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "5941",
@@ -573,7 +802,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "フジテレビ「林修のニッポンドリル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5941?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5941?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5945",
@@ -581,7 +813,12 @@
         "category": "配信",
         "time": "",
         "title": "Amazon Prime Video「内村さまぁ～ず Second」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5945?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5945?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲",
+            "高本 彩花"
+        ]
     },
     {
         "id": "5946",
@@ -589,7 +826,10 @@
         "category": "テレビ",
         "time": "24:15～",
         "title": "テレビ朝日「かまいガチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5946?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5946?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "5911",
@@ -597,7 +837,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「non-no」4月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5911?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5911?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5947",
@@ -605,7 +848,10 @@
         "category": "テレビ",
         "time": "14:00～",
         "title": "TBS「マネーハンター」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5947?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5947?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "5965",
@@ -613,7 +859,10 @@
         "category": "WEB",
         "time": "",
         "title": "「WEBザテレビジョン」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5965?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5965?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "5966",
@@ -621,7 +870,10 @@
         "category": "WEB",
         "time": "",
         "title": "「MANTANWEB」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5966?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5966?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "5949",
@@ -629,7 +881,10 @@
         "category": "テレビ",
         "time": "15:30～",
         "title": "TBS「全国ボロいい宿」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5949?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5949?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5964",
@@ -637,7 +892,10 @@
         "category": "配信",
         "time": "19:00～",
         "title": "SHOWROOM配信(宮田愛萌)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5964?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5964?ima=0000",
+        "members": [
+            "宮田 愛萌"
+        ]
     },
     {
         "id": "5950",
@@ -645,7 +903,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5950?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5950?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5948",
@@ -653,7 +914,10 @@
         "category": "配信",
         "time": "23:00～",
         "title": "DAZN「やべっちスタジアム」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5948?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5948?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5973",
@@ -661,7 +925,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「TVstation」2022年5号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5973?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5973?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "5913",
@@ -669,7 +936,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」2022年4月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5913?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5913?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "5952",
@@ -677,7 +947,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Ray」4月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5952?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5952?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5969",
@@ -685,7 +958,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「小説現代」3月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5969?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5969?ima=0000",
+        "members": [
+            "宮田 愛萌"
+        ]
     },
     {
         "id": "5971",
@@ -693,7 +969,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「anan」 No.2288",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5971?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5971?ima=0000",
+        "members": [
+            "高本 彩花"
+        ]
     },
     {
         "id": "5975",
@@ -701,7 +980,10 @@
         "category": "配信",
         "time": "",
         "title": "ポニーキャニオン公式YouTubeチャンネル「【丹生明里・松下洸平】アフレコ＆インタビュー動画【劇場版『DEEMO サクラノオト -あなたの奏でた音が、今も響く-』2022年2月25日公開】」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5975?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5975?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "3289",
@@ -709,7 +991,10 @@
         "category": "誕生日",
         "time": "",
         "title": "森本 茉莉の誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/3289?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/3289?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "3290",
@@ -717,7 +1002,10 @@
         "category": "誕生日",
         "time": "",
         "title": "山口 陽世の誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/3290?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/3290?ima=0000",
+        "members": [
+            "山口 陽世"
+        ]
     },
     {
         "id": "5976",
@@ -725,7 +1013,8 @@
         "category": "テレビ",
         "time": "17:30～",
         "title": "テレビ東京「テレ東音楽祭2022春～思わず歌いたくなる！最強ヒットソング100連発～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5976?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5976?ima=0000",
+        "members": []
     },
     {
         "id": "5982",
@@ -733,7 +1022,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「THE突破ファイル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5982?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5982?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5981",
@@ -741,7 +1033,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "河田陽菜1st写真集発売直前記念SHOWROOM",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5981?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5981?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "5985",
@@ -749,7 +1044,10 @@
         "category": "テレビ",
         "time": "21:00～",
         "title": "テレビ東京「所さんの学校では教えてくれないそこんトコロ！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5985?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5985?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5984",
@@ -757,7 +1055,10 @@
         "category": "テレビ",
         "time": "8:00～",
         "title": "TBS「ラヴィット！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5984?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5984?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "5990",
@@ -765,7 +1066,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「blt graph.」vol.76",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5990?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5990?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "5991",
@@ -773,7 +1077,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "フジテレビ系「ＥＮＧＥＩグランドスラム」4時間SP",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5991?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5991?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5980",
@@ -781,7 +1088,11 @@
         "category": "配信",
         "time": "19:00～",
         "title": "SHOWROOM配信(森本茉莉、山口陽世)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5980?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5980?ima=0000",
+        "members": [
+            "森本 茉莉",
+            "山口 陽世"
+        ]
     },
     {
         "id": "5924",
@@ -789,7 +1100,8 @@
         "category": "配信",
         "time": "8:00～",
         "title": "SmartNews日向坂46チャンネル「ひなたの朝刊」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5924?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5924?ima=0000",
+        "members": []
     },
     {
         "id": "6000",
@@ -797,7 +1109,12 @@
         "category": "テレビ",
         "time": "18:10～",
         "title": "NHK盛岡放送「おばんですいわて」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6000?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6000?ima=0000",
+        "members": [
+            "潮 紗理菜",
+            "佐々木 久美",
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5999",
@@ -805,7 +1122,12 @@
         "category": "配信",
         "time": "20:00～",
         "title": "ひな図書公式YouTubeチャンネル「ひな図書1周年記念特別番組」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5999?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5999?ima=0000",
+        "members": [
+            "潮 紗理菜",
+            "佐々木 美玲",
+            "東村 芽依"
+        ]
     },
     {
         "id": "5998",
@@ -813,7 +1135,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "河田陽菜1st写真集「思い出の順番」発売記念SHOWROOM",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5998?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5998?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "5997",
@@ -821,7 +1146,12 @@
         "category": "配信",
         "time": "22:00～",
         "title": "ひなこい公式YouTubeチャンネル「『ひなこい』YouTube特番プレミア」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5997?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5997?ima=0000",
+        "members": [
+            "潮 紗理菜",
+            "渡邉 美穂",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6001",
@@ -829,7 +1159,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年サンデー」14号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6001?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6001?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "5923",
@@ -837,7 +1170,10 @@
         "category": "配信",
         "time": "17:00～",
         "title": "Paravi「共感百景」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5923?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5923?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6007",
@@ -845,7 +1181,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "河田陽菜1st写真集「思い出の順番」発売記念SHOWROOM",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6007?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6007?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "6005",
@@ -853,7 +1192,10 @@
         "category": "テレビ",
         "time": "5:00～",
         "title": "NHK「おはよう日本」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6005?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6005?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6006",
@@ -861,7 +1203,10 @@
         "category": "テレビ",
         "time": "5:50～",
         "title": "日本テレビ「ZIP!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6006?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6006?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6009",
@@ -869,7 +1214,11 @@
         "category": "テレビ",
         "time": "26:40～",
         "title": "テレビ朝日「あるある土佐カンパニー 2」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6009?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6009?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "高本 彩花"
+        ]
     },
     {
         "id": "6010",
@@ -877,7 +1226,10 @@
         "category": "テレビ",
         "time": "18:56～",
         "title": "テレビ朝日「池上彰のニュースそうだったのか!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6010?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6010?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6002",
@@ -885,7 +1237,10 @@
         "category": "テレビ",
         "time": "18:56～",
         "title": "テレビ朝日「池上彰のニュースそうだったのか‼」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6002?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6002?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6011",
@@ -893,7 +1248,10 @@
         "category": "テレビ",
         "time": "6:00～",
         "title": "TBS「まるっとサタデー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6011?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6011?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "6012",
@@ -901,7 +1259,10 @@
         "category": "テレビ",
         "time": "9:30～",
         "title": "TBS「王様のブランチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6012?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6012?ima=0000",
+        "members": [
+            "河田 陽菜"
+        ]
     },
     {
         "id": "6013",
@@ -909,7 +1270,11 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(上村ひなの、髙橋未来虹)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6013?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6013?ima=0000",
+        "members": [
+            "上村 ひなの",
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6020",
@@ -917,7 +1282,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「IDOL AND READ 030」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6020?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6020?ima=0000",
+        "members": [
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6024",
@@ -925,7 +1293,11 @@
         "category": "ラジオ",
         "time": "25:00～",
         "title": "TOKYO FM「TOKYO SPEAKEASY」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6024?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6024?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6022",
@@ -933,7 +1305,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「ヤングチャンピオン」No.7",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6022?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6022?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6003",
@@ -941,7 +1316,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(金村美玖)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6003?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6003?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6028",
@@ -949,7 +1327,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「石原夏織フォトブック Terminal」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6028?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6028?ima=0000",
+        "members": [
+            "宮田 愛萌"
+        ]
     },
     {
         "id": "6027",
@@ -957,7 +1338,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "TBS「笑える！泣ける！動物スクープ100連発」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6027?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6027?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6031",
@@ -965,7 +1349,10 @@
         "category": "テレビ",
         "time": "24:20～",
         "title": "テレビ東京「FOOT×BRAIN」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6031?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6031?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6034",
@@ -973,7 +1360,10 @@
         "category": "テレビ",
         "time": "7:30～",
         "title": "NHK仙台放送「ウィークエンド東北」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6034?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6034?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6035",
@@ -981,7 +1371,10 @@
         "category": "テレビ",
         "time": "7:30～",
         "title": "NHK仙台放送「ウィークエンド東北」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6035?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6035?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6040",
@@ -989,7 +1382,10 @@
         "category": "配信",
         "time": "22:30～",
         "title": "SHOWROOM配信(高本彩花)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6040?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6040?ima=0000",
+        "members": [
+            "高本 彩花"
+        ]
     },
     {
         "id": "6042",
@@ -997,7 +1393,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「B.L.T.graduation2022高校卒業」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6042?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6042?ima=0000",
+        "members": [
+            "髙橋 未来虹",
+            "森本 茉莉",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6044",
@@ -1005,7 +1406,15 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊ヤングジャンプ」No.16",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6044?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6044?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲",
+            "河田 陽菜",
+            "濱岸 ひより",
+            "上村 ひなの",
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6046",
@@ -1013,7 +1422,10 @@
         "category": "テレビ",
         "time": "19:56～",
         "title": "日本テレビ「ぐるナイ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6046?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6046?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6049",
@@ -1021,7 +1433,12 @@
         "category": "配信",
         "time": "",
         "title": "DAZN Japan公式YouTubeチャンネル「DAZN AFCアジア予選 – Road to Qatar – 応援アンバサダー 特別コンテンツ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6049?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6049?ima=0000",
+        "members": [
+            "影山 優佳",
+            "東村 芽依",
+            "松田 好花"
+        ]
     },
     {
         "id": "6047",
@@ -1029,7 +1446,15 @@
         "category": "雑誌",
         "time": "",
         "title": "「ヤングガンガン」No.07",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6047?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6047?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲",
+            "松田 好花",
+            "宮田 愛萌",
+            "森本 茉莉",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6052",
@@ -1037,7 +1462,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「non-no」5月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6052?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6052?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6050",
@@ -1045,7 +1473,10 @@
         "category": "テレビ",
         "time": "13:30～",
         "title": "日本テレビ「お笑い密室ミッション WARAゲーム」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6050?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6050?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "6051",
@@ -1053,7 +1484,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "テレビ朝日「池上彰のニュースそうだったのか!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6051?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6051?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6048",
@@ -1061,7 +1495,10 @@
         "category": "テレビ",
         "time": "24:30～",
         "title": "NHK「令和ネット論」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6048?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6048?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6061",
@@ -1069,7 +1506,8 @@
         "category": "配信",
         "time": "13:00～",
         "title": "ひかりTV、dTVチャンネル「ひなちょい Season2生特番～謎解き＆気配斬り！ ってか６枚目シングルもぜ～んぶまとめて流行らせようSP～」再放送",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6061?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6061?ima=0000",
+        "members": []
     },
     {
         "id": "6054",
@@ -1077,7 +1515,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "フジテレビ系「逃走中」3時間SP",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6054?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6054?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6058",
@@ -1085,7 +1526,10 @@
         "category": "テレビ",
         "time": "14:49～",
         "title": "BSS山陰放送「君にエール！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6058?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6058?ima=0000",
+        "members": [
+            "山口 陽世"
+        ]
     },
     {
         "id": "6059",
@@ -1093,7 +1537,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「クイズ！THE違和感」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6059?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6059?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "高本 彩花"
+        ]
     },
     {
         "id": "6066",
@@ -1101,7 +1549,11 @@
         "category": "テレビ",
         "time": "19:56～",
         "title": "日本テレビ「ザ！世界仰天ニュース」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6066?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6066?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6067",
@@ -1109,7 +1561,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」5月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6067?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6067?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6068",
@@ -1117,7 +1572,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Ray」5月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6068?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6068?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6072",
@@ -1125,7 +1583,10 @@
         "category": "テレビ",
         "time": "25:56～",
         "title": "テレビ朝日「まんが未知」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6072?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6072?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6080",
@@ -1133,7 +1594,11 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊ヤングジャンプ」No.17",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6080?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6080?ima=0000",
+        "members": [
+            "高本 彩花",
+            "山口 陽世"
+        ]
     },
     {
         "id": "5472",
@@ -1141,7 +1606,10 @@
         "category": "ラジオ",
         "time": "19:30～",
         "title": "TOKYO FM「星のドラゴンクエストpresents 日向坂46佐々木美玲の『ホイミーぱん』」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5472?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5472?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6085",
@@ -1149,7 +1617,10 @@
         "category": "テレビ",
         "time": "18:05～",
         "title": "NHK総合「世界は教科書でできている」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6085?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6085?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "5196",
@@ -1157,7 +1628,8 @@
         "category": "ラジオ",
         "time": "18:30～19:00",
         "title": "文化放送『日向坂46の「ひ」』",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5196?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5196?ima=0000",
+        "members": []
     },
     {
         "id": "6089",
@@ -1165,7 +1637,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "テレビ朝日「ナニコレ珍百景」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6089?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6089?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6091",
@@ -1173,7 +1649,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6091?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6091?ima=0000",
+        "members": [
+            "高瀬 愛奈",
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6093",
@@ -1181,7 +1661,10 @@
         "category": "テレビ",
         "time": "21:00～",
         "title": "日本テレビ「あなたはこの衝撃に耐えられる？ワールドドキドキビデオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6093?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6093?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6092",
@@ -1189,7 +1672,8 @@
         "category": "ライブ",
         "time": "",
         "title": "「3周年記念MEMORIAL LIVE～3回目のひな誕祭～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6092?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6092?ima=0000",
+        "members": []
     },
     {
         "id": "6094",
@@ -1197,7 +1681,10 @@
         "category": "配信",
         "time": "",
         "title": "テレビ朝日公式YouTubeチャンネル「おやすみキョコロヒー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6094?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6094?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5906",
@@ -1205,7 +1692,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「bis」5月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5906?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5906?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6107",
@@ -1213,7 +1703,10 @@
         "category": "配信",
         "time": "19:00～",
         "title": "SHOWROOM配信(森本茉莉)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6107?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6107?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6110",
@@ -1221,7 +1714,11 @@
         "category": "ラジオ",
         "time": "18:00～",
         "title": "文化放送「乃木坂46の『の』」×「日向坂46の『ひ』」コラボ番組",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6110?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6110?ima=0000",
+        "members": [
+            "上村 ひなの",
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6125",
@@ -1229,7 +1726,10 @@
         "category": "ラジオ",
         "time": "23:45～25:00",
         "title": "文化放送「レコメン!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6125?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6125?ima=0000",
+        "members": [
+            "高瀬 愛奈"
+        ]
     },
     {
         "id": "6146",
@@ -1237,7 +1737,10 @@
         "category": "配信",
         "time": "18:00～",
         "title": "Sony Esports Project公式YouTubeチャンネル「Sony Creative Cup featuring Fortnite」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6146?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6146?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6147",
@@ -1245,7 +1748,10 @@
         "category": "テレビ",
         "time": "19:56～",
         "title": "日本テレビ「世界一受けたい授業」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6147?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6147?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6151",
@@ -1253,7 +1759,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(富田鈴花)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6151?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6151?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "1920",
@@ -1261,7 +1770,10 @@
         "category": "誕生日",
         "time": "",
         "title": "上村ひなのの誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/1920?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/1920?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6158",
@@ -1269,7 +1781,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(上村ひなの)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6158?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6158?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6163",
@@ -1277,7 +1792,10 @@
         "category": "テレビ",
         "time": "8:00～",
         "title": "テレビ東京「ポケモンとどこいく！？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6163?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6163?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6169",
@@ -1285,7 +1803,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6169?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6169?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6177",
@@ -1293,7 +1815,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「non-no」6月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6177?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6177?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6181",
@@ -1301,7 +1826,10 @@
         "category": "テレビ",
         "time": "25:56～",
         "title": "テレビ朝日「まんが未知」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6181?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6181?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6186",
@@ -1309,7 +1837,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「B.L.T」6月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6186?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6186?ima=0000",
+        "members": [
+            "影山 優佳",
+            "富田 鈴花",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6199",
@@ -1317,7 +1850,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」6月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6199?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6199?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6200",
@@ -1325,7 +1861,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Ray」6月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6200?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6200?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6187",
@@ -1333,7 +1872,31 @@
         "category": "雑誌",
         "time": "",
         "title": "「BRODY」6月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6187?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6187?ima=0000",
+        "members": [
+            "潮 紗理菜",
+            "影山 優佳",
+            "加藤 史帆",
+            "齊藤 京子",
+            "佐々木 久美",
+            "佐々木 美玲",
+            "高瀬 愛奈",
+            "高本 彩花",
+            "東村 芽依",
+            "金村 美玖",
+            "河田 陽菜",
+            "小坂 菜緒",
+            "富田 鈴花",
+            "丹生 明里",
+            "濱岸 ひより",
+            "松田 好花",
+            "宮田 愛萌",
+            "渡邉 美穂",
+            "上村 ひなの",
+            "髙橋 未来虹",
+            "森本 茉莉",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6197",
@@ -1341,7 +1904,10 @@
         "category": "配信",
         "time": "19:30～",
         "title": "SHOWROOM配信(渡邉美穂)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6197?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6197?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6204",
@@ -1349,7 +1915,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "ひかりTV「グッドモーニング、眠れる獅子」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6204?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6204?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6203",
@@ -1357,7 +1926,10 @@
         "category": "テレビ",
         "time": "22:00～",
         "title": "NHK BS1「Jリーグタイム」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6203?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6203?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6206",
@@ -1365,7 +1937,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6206?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6206?ima=0000",
+        "members": [
+            "影山 優佳",
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6207",
@@ -1373,7 +1949,10 @@
         "category": "テレビ",
         "time": "24:20～",
         "title": "テレビ朝日「ネオバズ！『チョコプラCUP』」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6207?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6207?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6209",
@@ -1381,7 +1960,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「THE NEW ERA BOOK Spring & Summer 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6209?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6209?ima=0000",
+        "members": [
+            "濱岸 ひより"
+        ]
     },
     {
         "id": "1916",
@@ -1389,7 +1971,10 @@
         "category": "誕生日",
         "time": "",
         "title": "松田好花の誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/1916?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/1916?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "6106",
@@ -1397,7 +1982,10 @@
         "category": "テレビ",
         "time": "24:20～",
         "title": "テレビ朝日「2分59秒」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6106?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6106?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6216",
@@ -1405,7 +1993,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「THE突破ファイル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6216?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6216?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6122",
@@ -1413,7 +2005,10 @@
         "category": "テレビ",
         "time": "24:00～",
         "title": "テレビ朝日「お願い!ランキング presents そだてれび」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6122?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6122?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6225",
@@ -1421,7 +2016,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6225?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6225?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6228",
@@ -1429,7 +2027,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「日経エンタテインメント! 」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6228?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6228?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6234",
@@ -1437,7 +2038,11 @@
         "category": "ラジオ",
         "time": "22:00～",
         "title": "文化放送「レコメン!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6234?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6234?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "金村 美玖"
+        ]
     },
     {
         "id": "6238",
@@ -1445,7 +2050,11 @@
         "category": "テレビ",
         "time": "8:00～",
         "title": "TBS「ラヴィット！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6238?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6238?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花"
+        ]
     },
     {
         "id": "6243",
@@ -1453,7 +2062,10 @@
         "category": "テレビ",
         "time": "21:55～",
         "title": "テレビ朝日「電脳ワールドワイ動ショー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6243?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6243?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6236",
@@ -1461,7 +2073,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6236?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6236?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6244",
@@ -1469,7 +2084,10 @@
         "category": "テレビ",
         "time": "23:00～",
         "title": "テレビ朝日「しくじり先生 俺みたいになるな!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6244?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6244?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6254",
@@ -1477,7 +2095,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年チャンピオン」No.24",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6254?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6254?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6260",
@@ -1485,7 +2106,10 @@
         "category": "配信",
         "time": "",
         "title": "DAZN「やべっちスタジアム」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6260?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6260?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6262",
@@ -1493,7 +2117,13 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6262?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6262?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里",
+            "渡邉 美穂",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6264",
@@ -1501,7 +2131,10 @@
         "category": "テレビ",
         "time": "20:30～",
         "title": "テレビ朝日「林修のレッスン！今でしょ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6264?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6264?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6267",
@@ -1509,7 +2142,10 @@
         "category": "テレビ",
         "time": "19：00～",
         "title": "TBS「東大王」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6267?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6267?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6268",
@@ -1517,7 +2153,10 @@
         "category": "テレビ",
         "time": "23:45～",
         "title": "テレビ朝日「NEWニューヨーク」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6268?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6268?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6269",
@@ -1525,7 +2164,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年チャンピオン」No.25",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6269?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6269?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6278",
@@ -1533,7 +2175,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6278?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6278?ima=0000",
+        "members": [
+            "濱岸 ひより",
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6281",
@@ -1541,7 +2187,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「B.L.T」7月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6281?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6281?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花",
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6282",
@@ -1549,7 +2200,11 @@
         "category": "配信",
         "time": "",
         "title": "Paravi「紙とさまぁ～ず」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6282?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6282?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6287",
@@ -1557,7 +2212,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年サンデー」26号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6287?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6287?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6288",
@@ -1565,7 +2223,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年マガジン」26号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6288?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6288?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里",
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6286",
@@ -1573,7 +2236,8 @@
         "category": "雑誌",
         "time": "",
         "title": "「日向坂46新聞 」22年春号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6286?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6286?ima=0000",
+        "members": []
     },
     {
         "id": "6283",
@@ -1581,7 +2245,10 @@
         "category": "テレビ",
         "time": "19：00～",
         "title": "TBS「東大王」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6283?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6283?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6294",
@@ -1589,7 +2256,10 @@
         "category": "テレビ",
         "time": "19：00～",
         "title": "テレビ朝日「ウラ撮れちゃいました」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6294?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6294?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6295",
@@ -1597,7 +2267,11 @@
         "category": "配信",
         "time": "21:00～",
         "title": "ひなこい公式YouTubeチャンネル「『日向坂高校放送部』第一夜」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6295?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6295?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花"
+        ]
     },
     {
         "id": "6300",
@@ -1605,7 +2279,8 @@
         "category": "テレビ",
         "time": "17:00～",
         "title": "テレビ朝日系「MUSIC STATION」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6300?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6300?ima=0000",
+        "members": []
     },
     {
         "id": "6301",
@@ -1613,7 +2288,10 @@
         "category": "テレビ",
         "time": "19:57～",
         "title": "NHK「チコちゃんに叱られる！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6301?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6301?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6296",
@@ -1621,7 +2299,11 @@
         "category": "配信",
         "time": "22:00～",
         "title": "ひなこいゲームアプリ「『日向坂高校放送部』第二夜」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6296?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6296?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花"
+        ]
     },
     {
         "id": "6302",
@@ -1629,7 +2311,8 @@
         "category": "テレビ",
         "time": "23:30～",
         "title": "NHK「Venue101」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6302?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6302?ima=0000",
+        "members": []
     },
     {
         "id": "6303",
@@ -1637,7 +2320,10 @@
         "category": "テレビ",
         "time": "24:30～",
         "title": "テレビ朝日/Abema「FIFA ワールドカップ64 サッカー日本代表大集合SP」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6303?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6303?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6309",
@@ -1645,7 +2331,13 @@
         "category": "雑誌",
         "time": "",
         "title": "「BIG ONE GIRLS」7月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6309?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6309?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "佐々木 美玲",
+            "森本 茉莉",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6310",
@@ -1653,7 +2345,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "フジテレビ「潜在能力テスト」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6310?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6310?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6229",
@@ -1661,7 +2356,10 @@
         "category": "テレビ",
         "time": "24:45～",
         "title": "テレビ朝日「お願い!ランキング presents そだてれび」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6229?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6229?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6104",
@@ -1669,7 +2367,8 @@
         "category": "リリース",
         "time": "",
         "title": "7thシングル「僕なんか」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6104?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6104?ima=0000",
+        "members": []
     },
     {
         "id": "6311",
@@ -1677,7 +2376,11 @@
         "category": "ラジオ",
         "time": "19:00～",
         "title": "FM NORTH WAVE「RADIO GROOVE」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6311?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6311?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花"
+        ]
     },
     {
         "id": "6314",
@@ -1685,7 +2388,10 @@
         "category": "ラジオ",
         "time": "10:52～",
         "title": "K-mix「キャッチ・ザ・ミュージック」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6314?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6314?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6315",
@@ -1693,7 +2399,11 @@
         "category": "ラジオ",
         "time": "12:00～",
         "title": "LOVE FM「スイッチオン！DAYTIME」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6315?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6315?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花"
+        ]
     },
     {
         "id": "6313",
@@ -1701,7 +2411,10 @@
         "category": "ラジオ",
         "time": "22:00～",
         "title": "InterFM897「佐藤満春のジャマしないラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6313?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6313?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6318",
@@ -1709,7 +2422,10 @@
         "category": "テレビ",
         "time": "23:25～",
         "title": "テレビ朝日「アメトーーク! 」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6318?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6318?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6312",
@@ -1717,7 +2433,10 @@
         "category": "ラジオ",
         "time": "7:00～",
         "title": "interfm「MUSIClock with THE FRIST TIMES」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6312?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6312?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6320",
@@ -1725,7 +2444,11 @@
         "category": "ラジオ",
         "time": "18:00～",
         "title": "AIR-G「IMAREAL」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6320?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6320?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6321",
@@ -1733,7 +2456,8 @@
         "category": "テレビ",
         "time": "25:09～",
         "title": "日本テレビ「バズリズム02」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6321?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6321?ima=0000",
+        "members": []
     },
     {
         "id": "6323",
@@ -1741,7 +2465,10 @@
         "category": "テレビ",
         "time": "10:30～",
         "title": "日本テレビ「ゼロイチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6323?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6323?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6324",
@@ -1749,7 +2476,10 @@
         "category": "テレビ",
         "time": "14:00～",
         "title": "TBS「あなたがここの主ですか？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6324?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6324?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6322",
@@ -1757,7 +2487,11 @@
         "category": "ライブ",
         "time": "18:30～",
         "title": "FM福岡「ライヴのじかん」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6322?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6322?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6327",
@@ -1765,7 +2499,10 @@
         "category": "テレビ",
         "time": "16:00～",
         "title": "仙台放送「終着駅からはじめちゃう！？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6327?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6327?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6326",
@@ -1773,7 +2510,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "MTV「MTV LIVE SESSIONS: Kyoko Saito from Hinatazaka46」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6326?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6326?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6328",
@@ -1781,7 +2521,10 @@
         "category": "テレビ",
         "time": "22:00～",
         "title": "TBS「日曜日の初耳学」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6328?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6328?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6339",
@@ -1789,7 +2532,11 @@
         "category": "ラジオ",
         "time": "16:55～",
         "title": "FM山形「Rhythm Station」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6339?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6339?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6340",
@@ -1797,7 +2544,11 @@
         "category": "ラジオ",
         "time": "20:25～",
         "title": "FM福岡「MOVING MONTHLY STYLE」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6340?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6340?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花"
+        ]
     },
     {
         "id": "6338",
@@ -1805,7 +2556,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "SHOWROOM配信(森本茉莉)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6338?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6338?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6341",
@@ -1813,7 +2567,11 @@
         "category": "ラジオ",
         "time": "26:30～",
         "title": "MBSラジオ「Music Treasures」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6341?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6341?ima=0000",
+        "members": [
+            "富田 鈴花",
+            "松田 好花"
+        ]
     },
     {
         "id": "6344",
@@ -1821,7 +2579,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年サンデー」28号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6344?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6344?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6342",
@@ -1829,7 +2590,13 @@
         "category": "雑誌",
         "time": "",
         "title": "「blt graph.」Vol.79",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6342?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6342?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "富田 鈴花",
+            "松田 好花",
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6345",
@@ -1837,7 +2604,11 @@
         "category": "テレビ",
         "time": "19：00～",
         "title": "テレビ朝日「ウラ撮れちゃいました」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6345?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6345?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "河田 陽菜"
+        ]
     },
     {
         "id": "6346",
@@ -1845,7 +2616,11 @@
         "category": "配信",
         "time": "21:00～",
         "title": "AWA LOUNGE「7thシングル『僕なんか』リリース記念配信」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6346?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6346?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6350",
@@ -1853,7 +2628,10 @@
         "category": "テレビ",
         "time": "20:15～",
         "title": "NHK総合「有吉のお金発見 突撃!カネオくん」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6350?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6350?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6351",
@@ -1861,7 +2639,10 @@
         "category": "テレビ",
         "time": "24:25～",
         "title": "テレビ東京「FOOT×BRAIN」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6351?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6351?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6349",
@@ -1869,7 +2650,11 @@
         "category": "ラジオ",
         "time": "9:00～",
         "title": "FM AICHI「沢井里奈のさわやか&さわーたいむ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6349?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6349?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6363",
@@ -1877,7 +2662,10 @@
         "category": "テレビ",
         "time": "14:00～",
         "title": "日本テレビ「秒速脱落サバイバルSECOND」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6363?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6363?ima=0000",
+        "members": [
+            "東村 芽依"
+        ]
     },
     {
         "id": "6365",
@@ -1885,7 +2673,8 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「CDTV ライブ! ライブ!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6365?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6365?ima=0000",
+        "members": []
     },
     {
         "id": "6371",
@@ -1893,7 +2682,8 @@
         "category": "テレビ",
         "time": "17:30～",
         "title": "テレビ東京「テレ東音楽祭２０２２夏〜思わず歌いたくなる！最強ヒットソング100連発！〜」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6371?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6371?ima=0000",
+        "members": []
     },
     {
         "id": "6374",
@@ -1901,7 +2691,11 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(小坂菜緒、渡邉美穂)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6374?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6374?ima=0000",
+        "members": [
+            "小坂 菜緒",
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6373",
@@ -1909,7 +2703,10 @@
         "category": "テレビ",
         "time": "23:25～",
         "title": "テレビ朝日「かまいガチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6373?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6373?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6375",
@@ -1917,7 +2714,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「blt graph.」Vol.80",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6375?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6375?ima=0000",
+        "members": [
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6360",
@@ -1925,7 +2725,8 @@
         "category": "テレビ",
         "time": "17:30～",
         "title": "TBSチャンネル1「舞台『フラガール - dance for smile -』」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6360?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6360?ima=0000",
+        "members": []
     },
     {
         "id": "6377",
@@ -1933,7 +2734,10 @@
         "category": "テレビ",
         "time": "21:30～",
         "title": "NHK「令和ネット論」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6377?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6377?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "6378",
@@ -1941,7 +2745,10 @@
         "category": "テレビ",
         "time": "24:25～",
         "title": "テレビ東京「FOOT×BRAIN」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6378?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6378?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6358",
@@ -1949,7 +2756,8 @@
         "category": "テレビ",
         "time": "22:30～",
         "title": "TBSチャンネル1「日向坂46 アリーナツアー『全国おひさま化計画2021』」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6358?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6358?ima=0000",
+        "members": []
     },
     {
         "id": "6379",
@@ -1957,7 +2765,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "テレビ東京「世界！ニッポン行きたい人応援団」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6379?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6379?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6293",
@@ -1965,7 +2776,8 @@
         "category": "ライブ",
         "time": "",
         "title": "日向坂46「渡邉美穂 卒業セレモニー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6293?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6293?ima=0000",
+        "members": []
     },
     {
         "id": "6154",
@@ -1973,7 +2785,10 @@
         "category": "テレビ",
         "time": "8:00～",
         "title": "TBS「ラヴィット！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6154?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6154?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6392",
@@ -1981,7 +2796,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「TopYellNEO 2022SUMMER」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6392?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6392?ima=0000",
+        "members": [
+            "影山 優佳",
+            "松田 好花",
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6393",
@@ -1989,7 +2809,10 @@
         "category": "テレビ",
         "time": "19：00～",
         "title": "MBS「プレバト！！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6393?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6393?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6395",
@@ -1997,7 +2820,8 @@
         "category": "テレビ",
         "time": "15:00～",
         "title": "日本テレビ「THE MUSIC DAY 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6395?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6395?ima=0000",
+        "members": []
     },
     {
         "id": "6394",
@@ -2005,7 +2829,10 @@
         "category": "テレビ",
         "time": "21:30～",
         "title": "NHK「令和ネット論」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6394?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6394?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "5774",
@@ -2013,7 +2840,12 @@
         "category": "テレビ",
         "time": "23:30～",
         "title": "テレビ東京系「X-MOMENT Presents CHOTeN ～今週、誰を予想する？～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5774?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5774?ima=0000",
+        "members": [
+            "丹生 明里",
+            "松田 好花",
+            "渡邉 美穂"
+        ]
     },
     {
         "id": "6409",
@@ -2021,7 +2853,10 @@
         "category": "テレビ",
         "time": "19:30～",
         "title": "NHK Eテレ「沼にハマってきいてみた」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6409?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6409?ima=0000",
+        "members": [
+            "高本 彩花"
+        ]
     },
     {
         "id": "6413",
@@ -2029,7 +2864,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「TV LIFE」14号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6413?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6413?ima=0000",
+        "members": [
+            "金村 美玖",
+            "河田 陽菜",
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6415",
@@ -2037,7 +2877,11 @@
         "category": "雑誌",
         "time": "",
         "title": "「女子ラジオ」Vol.1",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6415?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6415?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "松田 好花"
+        ]
     },
     {
         "id": "6410",
@@ -2045,7 +2889,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "テレビ朝日「くりぃむクイズ ミラクル９」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6410?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6410?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6411",
@@ -2053,7 +2900,10 @@
         "category": "テレビ",
         "time": "21:00～",
         "title": "日本テレビ「あなたはこの衝撃に耐えられる？ワールドドキドキビデオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6411?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6411?ima=0000",
+        "members": [
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6419",
@@ -2061,7 +2911,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「IDOL AND READ 031」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6419?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6419?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6418",
@@ -2069,7 +2922,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「THE突破ファイル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6418?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6418?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6422",
@@ -2077,7 +2933,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "MTV「日向坂46 齊藤京子 VideoSelects」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6422?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6422?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6423",
@@ -2085,7 +2944,10 @@
         "category": "テレビ",
         "time": "21:00～",
         "title": "MTV「MTV LIVE SESSIONS: Kyoko Saito from Hinatazaka46」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6423?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6423?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6425",
@@ -2093,7 +2955,10 @@
         "category": "テレビ",
         "time": "24:25～",
         "title": "テレビ東京「FOOT×BRAIN」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6425?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6425?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6435",
@@ -2101,7 +2966,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6435?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6435?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6446",
@@ -2109,7 +2978,8 @@
         "category": "イベント",
         "time": "20:30～",
         "title": "7thシングル『僕なんか』応募者全員当選 発売記念ミニライブ",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6446?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6446?ima=0000",
+        "members": []
     },
     {
         "id": "6449",
@@ -2117,7 +2987,8 @@
         "category": "テレビ",
         "time": "14:00～",
         "title": "TBS「音楽の日」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6449?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6449?ima=0000",
+        "members": []
     },
     {
         "id": "6466",
@@ -2125,7 +2996,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「non-no」9月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6466?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6466?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6451",
@@ -2133,7 +3007,11 @@
         "category": "テレビ",
         "time": "25:33～",
         "title": "TBS「ムビきゅん」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6451?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6451?ima=0000",
+        "members": [
+            "東村 芽依",
+            "金村 美玖"
+        ]
     },
     {
         "id": "6472",
@@ -2141,7 +3019,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Seventeen」9月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6472?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6472?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
     },
     {
         "id": "6298",
@@ -2149,7 +3030,8 @@
         "category": "ライブ",
         "time": "",
         "title": "「W-KEYAKI FES. 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6298?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6298?ima=0000",
+        "members": []
     },
     {
         "id": "6467",
@@ -2157,7 +3039,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」9月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6467?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6467?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6468",
@@ -2165,7 +3050,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Ray」9月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6468?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6468?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6280",
@@ -2173,7 +3061,10 @@
         "category": "雑誌",
         "time": "",
         "title": "丹生明里1st写真集「やさしい関係」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6280?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6280?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6498",
@@ -2181,7 +3072,10 @@
         "category": "テレビ",
         "time": "18:25～",
         "title": "テレビ東京「家、ついて行ってイイですか？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6498?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6498?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6412",
@@ -2189,7 +3083,10 @@
         "category": "テレビ",
         "time": "24:45～",
         "title": "テレビ朝日「お願い!ランキング presents そだてれび」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6412?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6412?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6444",
@@ -2197,7 +3094,8 @@
         "category": "握手会",
         "time": "",
         "title": "7thシングル『僕なんか』発売記念抽選企画「オンライン ミート＆グリート（個別トーク会）」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6444?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6444?ima=0000",
+        "members": []
     },
     {
         "id": "6502",
@@ -2205,7 +3103,10 @@
         "category": "テレビ",
         "time": "24:50～",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ64 〜日本のエース伊東純也を日向坂46影山が大解剖SP」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6502?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6502?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6443",
@@ -2213,7 +3114,8 @@
         "category": "イベント",
         "time": "",
         "title": "7thシングル「僕なんか」購入者応募抽選「オンラインサイン会」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6443?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6443?ima=0000",
+        "members": []
     },
     {
         "id": "6445",
@@ -2221,7 +3123,8 @@
         "category": "握手会",
         "time": "",
         "title": "7thシングル『僕なんか』発売記念抽選企画「オンライン ミート＆グリート（個別トーク会）」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6445?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6445?ima=0000",
+        "members": []
     },
     {
         "id": "6510",
@@ -2229,7 +3132,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "フジテレビ「千鳥の鬼レンチャン」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6510?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6510?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6511",
@@ -2237,7 +3143,10 @@
         "category": "テレビ",
         "time": "22:00～",
         "title": "TBS「日曜日の初耳学」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6511?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6511?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6523",
@@ -2245,7 +3154,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(上村ひなの)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6523?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6523?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6522",
@@ -2253,7 +3165,10 @@
         "category": "ラジオ",
         "time": "25:00～",
         "title": "TOKYO FM「TOKYO SPEAKEASY」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6522?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6522?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6533",
@@ -2261,7 +3176,8 @@
         "category": "ライブ",
         "time": "19:05～",
         "title": "「TOKYO IDOL FESTIVAL 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6533?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6533?ima=0000",
+        "members": []
     },
     {
         "id": "6536",
@@ -2269,7 +3185,11 @@
         "category": "配信",
         "time": "20:45～",
         "title": "SHOWROOM配信(髙橋未来虹、森本茉莉)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6536?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6536?ima=0000",
+        "members": [
+            "髙橋 未来虹",
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6535",
@@ -2277,7 +3197,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6535?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6535?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6534",
@@ -2285,7 +3208,14 @@
         "category": "配信",
         "time": "21:00～",
         "title": "ひなこい公式YouTubeチャンネル「HINAKOI FILMS第3弾『君と僕の、ひなたの初恋～恋と友情の真剣勝負編～』」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6534?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6534?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "佐々木 久美",
+            "佐々木 美玲",
+            "濱岸 ひより",
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6359",
@@ -2293,7 +3223,8 @@
         "category": "テレビ",
         "time": "18:00～",
         "title": "TBSチャンネル1「日向坂46ドキュメンタリー映画『希望と絶望』」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6359?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6359?ima=0000",
+        "members": []
     },
     {
         "id": "6447",
@@ -2301,7 +3232,8 @@
         "category": "イベント",
         "time": "20:30～",
         "title": "7thシングル『僕なんか』応募者全員当選 発売記念ミニライブ(アーカイブ配信)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6447?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6447?ima=0000",
+        "members": []
     },
     {
         "id": "6554",
@@ -2309,7 +3241,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「熱狂！1/365のマニアさん」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6554?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6554?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6558",
@@ -2317,7 +3252,10 @@
         "category": "テレビ",
         "time": "19：00～",
         "title": "TBS「東大王」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6558?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6558?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6559",
@@ -2325,7 +3263,13 @@
         "category": "配信",
         "time": "22:00～",
         "title": "ひなこい公式YouTubeチャンネル「HINAKOI FILMS第4弾『君と僕の、ひなたの初恋～夏が走り出す編～』第1話」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6559?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6559?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "金村 美玖",
+            "上村 ひなの",
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6560",
@@ -2333,7 +3277,13 @@
         "category": "配信",
         "time": "22:00～",
         "title": "ひなこい公式YouTubeチャンネル「HINAKOI FILMS第4弾『君と僕の、ひなたの初恋～夏が走り出す編～』第2話」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6560?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6560?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "金村 美玖",
+            "上村 ひなの",
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6564",
@@ -2341,7 +3291,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「non-no」10月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6564?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6564?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6562",
@@ -2349,7 +3302,11 @@
         "category": "配信",
         "time": "21:00～",
         "title": "ひなこいYouTubeチャンネル「HINAKOI FILMS第4弾『君と僕の、ひなたの初恋～夏が走り出す編～』」後日談」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6562?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6562?ima=0000",
+        "members": [
+            "小坂 菜緒",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6563",
@@ -2357,7 +3314,10 @@
         "category": "テレビ",
         "time": "20:30～",
         "title": "テレビ朝日「クイズプレゼンバラエティー Qさま!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6563?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6563?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6575",
@@ -2365,7 +3325,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Ray」10月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6575?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6575?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6576",
@@ -2373,7 +3336,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」10月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6576?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6576?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6578",
@@ -2381,7 +3347,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(東村芽依)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6578?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6578?ima=0000",
+        "members": [
+            "東村 芽依"
+        ]
     },
     {
         "id": "6581",
@@ -2389,7 +3358,12 @@
         "category": "配信",
         "time": "20:00～",
         "title": "ひなこいYouTubeチャンネル「HINAKOI FILMS第4弾『君と僕の、ひなたの初恋～夏が走り出す編～』特番",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6581?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6581?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "金村 美玖",
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6583",
@@ -2397,7 +3371,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「THE突破ファイル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6583?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6583?ima=0000",
+        "members": [
+            "金村 美玖",
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6584",
@@ -2405,7 +3383,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「クイズ あなたは小学5年生より賢いの？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6584?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6584?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "6591",
@@ -2413,7 +3394,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6591?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6591?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "高瀬 愛奈"
+        ]
     },
     {
         "id": "6284",
@@ -2421,7 +3406,10 @@
         "category": "配信",
         "time": "",
         "title": "テレビ朝日公式YouTubeチャンネル「おやすみキョコロヒー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6284?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6284?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6607",
@@ -2429,7 +3417,12 @@
         "category": "配信",
         "time": "18:00～",
         "title": "ひな図書公式YouTubeチャンネル「『ひな図書』1.5周年記念YouTube特番」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6607?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6607?ima=0000",
+        "members": [
+            "影山 優佳",
+            "丹生 明里",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6608",
@@ -2437,7 +3430,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "東村芽依1st写真集「見つけた」発売記念SHOWROOM",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6608?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6608?ima=0000",
+        "members": [
+            "東村 芽依"
+        ]
     },
     {
         "id": "6604",
@@ -2445,7 +3441,10 @@
         "category": "ラジオ",
         "time": "23:30～",
         "title": "文化放送「めるるのはっぴーsuるーむ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6604?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6604?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6606",
@@ -2453,7 +3452,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「THE突破ファイル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6606?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6606?ima=0000",
+        "members": [
+            "東村 芽依",
+            "河田 陽菜"
+        ]
     },
     {
         "id": "6612",
@@ -2461,7 +3464,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「日経エンタテインメント！」10月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6612?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6612?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6448",
@@ -2469,7 +3475,8 @@
         "category": "イベント",
         "time": "20:30～",
         "title": "7thシングル『僕なんか』応募者全員当選 発売記念ミニライブ(メンバー解説付き)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6448?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6448?ima=0000",
+        "members": []
     },
     {
         "id": "6609",
@@ -2477,7 +3484,17 @@
         "category": "イベント",
         "time": "",
         "title": "「第35回 マイナビ 東京ガールズコレクション 2022 AUTUMN／WINTER」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6609?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6609?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "齊藤 京子",
+            "佐々木 久美",
+            "佐々木 美玲",
+            "高本 彩花",
+            "金村 美玖",
+            "小坂 菜緒",
+            "濱岸 ひより"
+        ]
     },
     {
         "id": "6622",
@@ -2485,7 +3502,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「世界まる見え！テレビ特捜部」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6622?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6622?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6621",
@@ -2493,7 +3513,10 @@
         "category": "配信",
         "time": "21:30～",
         "title": "SHOWROOM配信(齊藤京子)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6621?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6621?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "1912",
@@ -2501,7 +3524,10 @@
         "category": "誕生日",
         "time": "",
         "title": "小坂菜緒の誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/1912?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/1912?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
     },
     {
         "id": "6642",
@@ -2509,7 +3535,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「東大王」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6642?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6642?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6643",
@@ -2517,7 +3546,10 @@
         "category": "ラジオ",
         "time": "23:30～",
         "title": "文化放送「めるるのはっぴーsuるーむ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6643?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6643?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6644",
@@ -2525,7 +3557,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "テレビ朝日「ウラ撮れちゃいました」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6644?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6644?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6646",
@@ -2533,7 +3568,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「第42回全国高等学校クイズ選手権 高校生クイズ2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6646?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6646?ima=0000",
+        "members": [
+            "影山 優佳",
+            "松田 好花"
+        ]
     },
     {
         "id": "1910",
@@ -2541,7 +3580,10 @@
         "category": "誕生日",
         "time": "",
         "title": "金村美玖の誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/1910?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/1910?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6648",
@@ -2549,7 +3591,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "SHOWROOM配信(金村美玖)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6648?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6648?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6658",
@@ -2557,7 +3602,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「ar」10月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6658?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6658?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6653",
@@ -2565,7 +3613,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6653?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6653?ima=0000",
+        "members": [
+            "金村 美玖",
+            "松田 好花"
+        ]
     },
     {
         "id": "6471",
@@ -2573,7 +3625,10 @@
         "category": "雑誌",
         "time": "",
         "title": "東村芽依1st写真集「見つけた」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6471?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6471?ima=0000",
+        "members": [
+            "東村 芽依"
+        ]
     },
     {
         "id": "6668",
@@ -2581,7 +3636,10 @@
         "category": "配信",
         "time": "18:00～",
         "title": "バンダイナムコエンターテインメント公式YouTubeチャンネル「『ドラゴンボール ザ ブレイカーズ』『ドラゴンボールZ KAKAROT』TGS2022スペシャル配信番組」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6668?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6668?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6667",
@@ -2589,7 +3647,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "Paravi・テレビ東京ドラマYouTubeチャンネル「何かおかしい2」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6667?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6667?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6669",
@@ -2597,7 +3658,10 @@
         "category": "テレビ",
         "time": "21:55～",
         "title": "テレビ朝日「電脳ワールドワイ動ショー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6669?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6669?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6627",
@@ -2605,7 +3669,8 @@
         "category": "ライブ",
         "time": "",
         "title": "日向坂46「Happy Smile Tour 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6627?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6627?ima=0000",
+        "members": []
     },
     {
         "id": "6671",
@@ -2613,7 +3678,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "日本テレビ「The Gift」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6671?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6671?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6682",
@@ -2621,7 +3689,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊少年チャンピオン」No.43",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6682?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6682?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6683",
@@ -2629,7 +3700,10 @@
         "category": "テレビ",
         "time": "26:25～",
         "title": "フジテレビ「Eラボ～ゲーミングデイズ～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6683?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6683?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6424",
@@ -2637,7 +3711,12 @@
         "category": "テレビ",
         "time": "23:30～",
         "title": "テレビ東京系「X-MOMENT Presents CHOTeN ～今週、誰を予想する？～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6424?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6424?ima=0000",
+        "members": [
+            "高瀬 愛奈",
+            "丹生 明里",
+            "松田 好花"
+        ]
     },
     {
         "id": "6684",
@@ -2645,7 +3724,10 @@
         "category": "テレビ",
         "time": "24:30～",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ64 三笘のドリブルで世界を攻略SP」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6684?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6684?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6685",
@@ -2653,7 +3735,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "日本テレビ「世界まる見え！テレビ特捜部」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6685?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6685?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "3287",
@@ -2661,7 +3746,10 @@
         "category": "誕生日",
         "time": "",
         "title": "髙橋 未来虹の誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/3287?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/3287?ima=0000",
+        "members": [
+            "髙橋 未来虹"
+        ]
     },
     {
         "id": "6703",
@@ -2669,7 +3757,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "フジテレビ「潜在能力テスト」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6703?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6703?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6704",
@@ -2677,7 +3768,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "SHOWROOM配信(影山優佳)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6704?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6704?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6705",
@@ -2685,7 +3779,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(濱岸ひより)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6705?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6705?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6709",
@@ -2693,7 +3790,10 @@
         "category": "テレビ",
         "time": "26:50～",
         "title": "フジテレビ「Eラボ～ゲーミングデイズ～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6709?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6709?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6713",
@@ -2701,7 +3801,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「あなたはこの衝撃に耐えられる？ワールドドキドキビデオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6713?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6713?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6714",
@@ -2709,7 +3812,10 @@
         "category": "テレビ",
         "time": "5:30～",
         "title": "日本テレビ「ズームイン！！サタデー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6714?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6714?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6734",
@@ -2717,7 +3823,8 @@
         "category": "イベント",
         "time": "",
         "title": "「長岡 米百俵フェス〜花火と食と音楽と〜2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6734?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6734?ima=0000",
+        "members": []
     },
     {
         "id": "6735",
@@ -2725,7 +3832,10 @@
         "category": "テレビ",
         "time": "18:00～",
         "title": "テレビ朝日「池上彰のニュースそうだったのか!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6735?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6735?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6750",
@@ -2733,7 +3843,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「東大王」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6750?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6750?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6753",
@@ -2741,7 +3854,11 @@
         "category": "テレビ",
         "time": "7:05～",
         "title": "テレビ東京「おはスタ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6753?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6753?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6754",
@@ -2749,7 +3866,8 @@
         "category": "テレビ",
         "time": "18:00～",
         "title": "フジテレビ「MUSIC FAIR」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6754?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6754?ima=0000",
+        "members": []
     },
     {
         "id": "6756",
@@ -2757,7 +3875,10 @@
         "category": "配信",
         "time": "20:030～",
         "title": "SHOWROOM配信(富田鈴花)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6756?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6756?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6755",
@@ -2765,7 +3886,10 @@
         "category": "テレビ",
         "time": "25:00～",
         "title": "BSフジ「GO ON! NEXT ～サーキットで会いましょう～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6755?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6755?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6757",
@@ -2773,7 +3897,10 @@
         "category": "テレビ",
         "time": "24:25～",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ64」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6757?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6757?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6628",
@@ -2781,7 +3908,8 @@
         "category": "ライブ",
         "time": "",
         "title": "日向坂46「Happy Smile Tour 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6628?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6628?ima=0000",
+        "members": []
     },
     {
         "id": "6770",
@@ -2789,7 +3917,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「東大王」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6770?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6770?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6772",
@@ -2797,7 +3928,14 @@
         "category": "雑誌",
         "time": "",
         "title": "「BRODY」12月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6772?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6772?ima=0000",
+        "members": [
+            "高瀬 愛奈",
+            "高本 彩花",
+            "東村 芽依",
+            "河田 陽菜",
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6774",
@@ -2805,7 +3943,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "SHOWROOM配信(金村美玖)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6774?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6774?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6773",
@@ -2813,7 +3954,11 @@
         "category": "テレビ",
         "time": "7:05～",
         "title": "テレビ東京「おはスタ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6773?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6773?ima=0000",
+        "members": [
+            "齊藤 京子",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6776",
@@ -2821,7 +3966,10 @@
         "category": "テレビ",
         "time": "10:30～",
         "title": "日本テレビ「ゼロイチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6776?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6776?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6795",
@@ -2829,7 +3977,10 @@
         "category": "テレビ",
         "time": "24:30～",
         "title": "日本テレビ「朝メシまで。」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6795?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6795?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6778",
@@ -2837,7 +3988,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」12月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6778?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6778?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6777",
@@ -2845,7 +3999,10 @@
         "category": "配信",
         "time": "19:00～",
         "title": "CanCam公式Instagramライブ",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6777?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6777?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6779",
@@ -2853,7 +4010,10 @@
         "category": "テレビ",
         "time": "7:30～",
         "title": "日本テレビ「シューイチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6779?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6779?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6787",
@@ -2861,7 +4021,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6787?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6787?ima=0000",
+        "members": [
+            "濱岸 ひより",
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6794",
@@ -2869,7 +4033,8 @@
         "category": "雑誌",
         "time": "",
         "title": "「ヤングチャンピオン」No.22",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6794?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6794?ima=0000",
+        "members": []
     },
     {
         "id": "6789",
@@ -2877,7 +4042,11 @@
         "category": "ラジオ",
         "time": "16:00～",
         "title": "FM大阪「LOVE FLAP」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6789?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6789?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6791",
@@ -2885,7 +4054,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「ものまねグランプリ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6791?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6791?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6793",
@@ -2893,7 +4065,11 @@
         "category": "ラジオ",
         "time": "23:55～",
         "title": "ZIP-FM「GENZ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6793?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6793?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6792",
@@ -2901,7 +4077,8 @@
         "category": "配信",
         "time": "24:00～",
         "title": "8thシングル「月と星が踊るMidnight」発売記念「生ひなリハ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6792?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6792?ima=0000",
+        "members": []
     },
     {
         "id": "6788",
@@ -2909,7 +4086,11 @@
         "category": "ラジオ",
         "time": "25:00～",
         "title": "FM大阪「J3 Tuesday〜Midnight IQ〜」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6788?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6788?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6654",
@@ -2917,7 +4098,8 @@
         "category": "リリース",
         "time": "",
         "title": "8th Single「月と星が踊るMidnight」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6654?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6654?ima=0000",
+        "members": []
     },
     {
         "id": "6808",
@@ -2925,7 +4107,11 @@
         "category": "ラジオ",
         "time": "14:00～",
         "title": "FM滋賀「キャッチ！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6808?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6808?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6815",
@@ -2933,7 +4119,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Platinum FLASH」Vol.20",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6815?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6815?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
     },
     {
         "id": "6813",
@@ -2941,7 +4130,11 @@
         "category": "ラジオ",
         "time": "16:55～",
         "title": "FM山形「Rhythm Station」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6813?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6813?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6827",
@@ -2949,7 +4142,11 @@
         "category": "ラジオ",
         "time": "16:55～",
         "title": "FM山形「Rhythm Station」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6827?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6827?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6814",
@@ -2957,7 +4154,11 @@
         "category": "ラジオ",
         "time": "22:00～",
         "title": "InterFM897「佐藤満春のジャマしないラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6814?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6814?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6786",
@@ -2965,7 +4166,10 @@
         "category": "テレビ",
         "time": "24:45～",
         "title": "テレビ朝日「お願い!ランキング presents そだてれび」内「みんなのまめお」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6786?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6786?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6826",
@@ -2973,7 +4177,10 @@
         "category": "テレビ",
         "time": "25:00～",
         "title": "テレビ東京「盛ラジオ〜あのトークの元ネタ見せちゃいます〜」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6826?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6826?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "6829",
@@ -2981,7 +4188,11 @@
         "category": "配信",
         "time": "20:30～",
         "title": "パワプロ・プロスピ公式YouTubeチャンネル「eBASEBALLプロスピAリーグ 開幕直前特番」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6829?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6829?ima=0000",
+        "members": [
+            "佐々木 久美",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6828",
@@ -2989,7 +4200,8 @@
         "category": "テレビ",
         "time": "25:29～",
         "title": "日本テレビ「バズリズム02」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6828?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6828?ima=0000",
+        "members": []
     },
     {
         "id": "6832",
@@ -2997,7 +4209,10 @@
         "category": "テレビ",
         "time": "22:00～",
         "title": "TBS「日曜日の初耳学」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6832?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6832?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6848",
@@ -3005,7 +4220,10 @@
         "category": "テレビ",
         "time": "10:25～",
         "title": "日本テレビ「バゲット」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6848?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6848?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6849",
@@ -3013,7 +4231,10 @@
         "category": "テレビ",
         "time": "11:55～",
         "title": "日本テレビ「ヒルナンデス！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6849?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6849?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6850",
@@ -3021,7 +4242,8 @@
         "category": "テレビ",
         "time": "19:57～",
         "title": "NHK「うたコン」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6850?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6850?ima=0000",
+        "members": []
     },
     {
         "id": "6847",
@@ -3029,7 +4251,10 @@
         "category": "テレビ",
         "time": "5:50～",
         "title": "日本テレビ「ZIP!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6847?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6847?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6857",
@@ -3037,7 +4262,11 @@
         "category": "ラジオ",
         "time": "16:00～",
         "title": "FM徳島「T-joint」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6857?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6857?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6856",
@@ -3045,7 +4274,11 @@
         "category": "ラジオ",
         "time": "20:20～",
         "title": "FM山形「RAMP」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6856?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6856?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6862",
@@ -3053,7 +4286,12 @@
         "category": "配信",
         "time": "21:00～",
         "title": "MUSIC ON! TV「『月と星が踊るMidnight』リリース記念特番」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6862?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6862?ima=0000",
+        "members": [
+            "佐々木 美玲",
+            "河田 陽菜",
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6859",
@@ -3061,7 +4299,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(高本彩花)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6859?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6859?ima=0000",
+        "members": [
+            "高本 彩花"
+        ]
     },
     {
         "id": "6858",
@@ -3069,7 +4310,10 @@
         "category": "テレビ",
         "time": "24:45～",
         "title": "テレビ朝日「お願い!ランキング presents そだてれび」内「みんなのまめお」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6858?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6858?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6864",
@@ -3077,7 +4321,10 @@
         "category": "テレビ",
         "time": "25:00～",
         "title": "テレビ東京「盛ラジオ〜あのトークの元ネタ見せちゃいます〜」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6864?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6864?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "6863",
@@ -3085,7 +4332,11 @@
         "category": "",
         "time": "4:30～",
         "title": "TFM/JFN「Memories&Discoveries」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6863?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6863?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6861",
@@ -3093,7 +4344,11 @@
         "category": "",
         "time": "7:30～",
         "title": "Kiss FM KOBE「シャカリキ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6861?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6861?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6868",
@@ -3101,7 +4356,11 @@
         "category": "ラジオ",
         "time": "18:00～",
         "title": "AIR-G「IMAREAL」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6868?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6868?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6865",
@@ -3109,7 +4368,8 @@
         "category": "テレビ",
         "time": "21:00～",
         "title": "テレビ朝日「ミュージックステーション」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6865?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6865?ima=0000",
+        "members": []
     },
     {
         "id": "6869",
@@ -3117,7 +4377,10 @@
         "category": "テレビ",
         "time": "21:55～",
         "title": "テレビ朝日「楽しく学ぶ！世界動画ニュース」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6869?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6869?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6870",
@@ -3125,7 +4388,8 @@
         "category": "テレビ",
         "time": "23:00～",
         "title": "NHK「Venue101」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6870?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6870?ima=0000",
+        "members": []
     },
     {
         "id": "6872",
@@ -3133,7 +4397,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6872?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6872?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6874",
@@ -3141,7 +4408,8 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "TBS「CDTV ライブ! ライブ!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6874?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6874?ima=0000",
+        "members": []
     },
     {
         "id": "6873",
@@ -3149,7 +4417,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6873?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6873?ima=0000",
+        "members": [
+            "高本 彩花",
+            "東村 芽依"
+        ]
     },
     {
         "id": "6879",
@@ -3157,7 +4429,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "テレビ朝日「くりぃむクイズ ミラクル９」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6879?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6879?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6821",
@@ -3165,7 +4440,8 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "読売テレビ「ベストヒット歌謡祭2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6821?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6821?ima=0000",
+        "members": []
     },
     {
         "id": "6882",
@@ -3173,7 +4449,8 @@
         "category": "テレビ",
         "time": "26:01～",
         "title": "テレビ朝日「ぺこぱポジティブNEWS」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6882?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6882?ima=0000",
+        "members": []
     },
     {
         "id": "6629",
@@ -3181,7 +4458,8 @@
         "category": "ライブ",
         "time": "",
         "title": "日向坂46「Happy Smile Tour 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6629?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6629?ima=0000",
+        "members": []
     },
     {
         "id": "6885",
@@ -3189,7 +4467,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "テレビ朝日「クイズプレゼンバラエティー Qさま!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6885?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6885?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6903",
@@ -3197,7 +4478,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "ABEMA「4年に1度の大予想！FIFAワールドカップ すべてをあてるときがきた！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6903?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6903?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6904",
@@ -3205,7 +4489,8 @@
         "category": "テレビ",
         "time": "24:35～",
         "title": "テレビ朝日「朝メシまで。」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6904?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6904?ima=0000",
+        "members": []
     },
     {
         "id": "6905",
@@ -3213,7 +4498,10 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6905?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6905?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6911",
@@ -3221,7 +4509,10 @@
         "category": "配信",
         "time": "23:30～",
         "title": "ABEMA「カタール vs エクアドル｜グループA｜FIFA ワールドカップ 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6911?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6911?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6910",
@@ -3229,7 +4520,10 @@
         "category": "配信",
         "time": "24:30～",
         "title": "テレビ朝日/ABEMA「FIFA ワールドカップ64 #12 祝！W杯開幕！開幕戦超直前SP生放送」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6910?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6910?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6917",
@@ -3237,7 +4531,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「有吉ゼミ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6917?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6917?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6916",
@@ -3245,7 +4542,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6916?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6916?ima=0000",
+        "members": [
+            "森本 茉莉",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6846",
@@ -3253,7 +4554,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "SHOWROOM配信(金村美玖)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6846?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6846?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6918",
@@ -3261,7 +4565,10 @@
         "category": "テレビ",
         "time": "26:21～",
         "title": "テレビ朝日「チョコプランナー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6918?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6918?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6920",
@@ -3269,7 +4576,10 @@
         "category": "雑誌",
         "time": "",
         "title": "日刊スポーツ「坂道の火曜日」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6920?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6920?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6925",
@@ -3277,7 +4587,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」1月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6925?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6925?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6926",
@@ -3285,7 +4598,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「Ray」1月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6926?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6926?ima=0000",
+        "members": [
+            "佐々木 久美"
+        ]
     },
     {
         "id": "6921",
@@ -3293,7 +4609,12 @@
         "category": "雑誌",
         "time": "",
         "title": "「MARQUEE」Vol.148",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6921?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6921?ima=0000",
+        "members": [
+            "髙橋 未来虹",
+            "森本 茉莉",
+            "山口 陽世"
+        ]
     },
     {
         "id": "6922",
@@ -3301,7 +4622,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「WHITE graph」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6922?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6922?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6923",
@@ -3309,7 +4633,10 @@
         "category": "配信",
         "time": "24:30～",
         "title": "ABEMA「FIFA ワールドカップ 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6923?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6923?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6927",
@@ -3317,7 +4644,8 @@
         "category": "テレビ",
         "time": "17:30～",
         "title": "テレビ東京系「テレ東音楽祭2022冬〜思わず歌いたくなる 最強ヒットソング100連発〜」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6927?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6927?ima=0000",
+        "members": []
     },
     {
         "id": "6924",
@@ -3325,7 +4653,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "ABEMA「FIFA ワールドカップ 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6924?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6924?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6932",
@@ -3333,7 +4664,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「週刊ヤングジャンプ」52号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6932?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6932?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6931",
@@ -3341,7 +4675,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "MBS「プレバト！！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6931?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6931?ima=0000",
+        "members": [
+            "加藤 史帆",
+            "高瀬 愛奈"
+        ]
     },
     {
         "id": "6919",
@@ -3349,7 +4687,10 @@
         "category": "テレビ",
         "time": "24:45～",
         "title": "テレビ朝日「お願い!ランキング presents そだてれび」内「みんなのまめお」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6919?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6919?ima=0000",
+        "members": [
+            "丹生 明里"
+        ]
     },
     {
         "id": "6929",
@@ -3357,7 +4698,10 @@
         "category": "配信",
         "time": "25:00～",
         "title": "ABEMA「FIFA ワールドカップ 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6929?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6929?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6943",
@@ -3365,7 +4709,10 @@
         "category": "テレビ",
         "time": "",
         "title": "テレビ朝日「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6943?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6943?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6945",
@@ -3373,7 +4720,10 @@
         "category": "テレビ",
         "time": "23:10～",
         "title": "テレビ朝日「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6945?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6945?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6947",
@@ -3381,7 +4731,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「bis」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6947?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6947?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6948",
@@ -3389,7 +4742,11 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「THE突破ファイル」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6948?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6948?ima=0000",
+        "members": [
+            "金村 美玖",
+            "丹生 明里"
+        ]
     },
     {
         "id": "6946",
@@ -3397,7 +4754,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "bis公式Instagram「bis1月号発売記念インスタライブ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6946?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6946?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "6950",
@@ -3405,7 +4765,10 @@
         "category": "テレビ",
         "time": "23:00～",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6950?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6950?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6955",
@@ -3413,7 +4776,10 @@
         "category": "テレビ",
         "time": "20:00～",
         "title": "テレビ朝日「修造＆一茂のイミシン」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6955?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6955?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6954",
@@ -3421,7 +4787,10 @@
         "category": "配信",
         "time": "22:00～",
         "title": "SHOWROOM配信(富田鈴花)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6954?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6954?ima=0000",
+        "members": [
+            "富田 鈴花"
+        ]
     },
     {
         "id": "6951",
@@ -3429,7 +4798,10 @@
         "category": "テレビ",
         "time": "23:00～",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6951?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6951?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6952",
@@ -3437,7 +4809,8 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ系「ベストアーティスト2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6952?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6952?ima=0000",
+        "members": []
     },
     {
         "id": "6956",
@@ -3445,7 +4818,10 @@
         "category": "テレビ",
         "time": "24:25～",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6956?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6956?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6970",
@@ -3453,7 +4829,10 @@
         "category": "テレビ",
         "time": "",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6970?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6970?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6969",
@@ -3461,7 +4840,11 @@
         "category": "ラジオ",
         "time": "20:05～",
         "title": "NHKラジオ第１「さくらひなたロッチの伸びしろラジオ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6969?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6969?ima=0000",
+        "members": [
+            "潮 紗理菜",
+            "高瀬 愛奈"
+        ]
     },
     {
         "id": "6975",
@@ -3469,7 +4852,10 @@
         "category": "雑誌",
         "time": "",
         "title": "「ar」1月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6975?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6975?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6976",
@@ -3477,7 +4863,10 @@
         "category": "テレビ",
         "time": "26:21～",
         "title": "テレビ朝日「チョコプランナー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6976?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6976?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6989",
@@ -3485,7 +4874,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "日本テレビ「クイズ あなたは小学5年生より賢いの？」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6989?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6989?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6990",
@@ -3493,7 +4885,8 @@
         "category": "配信",
         "time": "21:00～",
         "title": "8thシングル「月と星が踊るMidnight」配信ミニライブ",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6990?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6990?ima=0000",
+        "members": []
     },
     {
         "id": "6996",
@@ -3501,7 +4894,10 @@
         "category": "テレビ",
         "time": "",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6996?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6996?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "6876",
@@ -3509,7 +4905,8 @@
         "category": "ライブ",
         "time": "",
         "title": "「ひなくり2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6876?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6876?ima=0000",
+        "members": []
     },
     {
         "id": "6995",
@@ -3517,7 +4914,10 @@
         "category": "テレビ",
         "time": "",
         "title": "テレビ朝日/ABEMA「FIFAワールドカップ カタール 2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6995?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6995?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5867",
@@ -3525,7 +4925,10 @@
         "category": "テレビ",
         "time": "23:45～",
         "title": "テレビ朝日「キョコロヒー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5867?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5867?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "6999",
@@ -3533,7 +4936,10 @@
         "category": "テレビ",
         "time": "26:21～",
         "title": "テレビ朝日「チョコプランナー」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6999?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6999?ima=0000",
+        "members": [
+            "森本 茉莉"
+        ]
     },
     {
         "id": "6933",
@@ -3541,7 +4947,10 @@
         "category": "写真集",
         "time": "",
         "title": "金村美玖1st写真集「羅針盤」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6933?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6933?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "7003",
@@ -3549,7 +4958,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(森本茉莉)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7003?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7003?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "7004",
@@ -3557,7 +4969,8 @@
         "category": "テレビ",
         "time": "17:00～",
         "title": "テレビ朝日系「MUSIC STATION ウルトラSUPER LIVE2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7004?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7004?ima=0000",
+        "members": []
     },
     {
         "id": "5254",
@@ -3565,7 +4978,8 @@
         "category": "ラジオ",
         "time": "18:30～19:00",
         "title": "文化放送『日向坂46の「ひ」』",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5254?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5254?ima=0000",
+        "members": []
     },
     {
         "id": "7007",
@@ -3573,7 +4987,10 @@
         "category": "配信",
         "time": "20:00～",
         "title": "SHOWROOM配信(金村美玖)",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7007?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7007?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
     },
     {
         "id": "7009",
@@ -3581,7 +4998,11 @@
         "category": "テレビ",
         "time": "21:54～",
         "title": "テレビ東京「有吉弘行&田中将大のドリィィeeeeeームマッチ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7009?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7009?ima=0000",
+        "members": [
+            "影山 優佳",
+            "丹生 明里"
+        ]
     },
     {
         "id": "5197",
@@ -3589,7 +5010,8 @@
         "category": "テレビ",
         "time": "25:05～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5197?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5197?ima=0000",
+        "members": []
     },
     {
         "id": "5198",
@@ -3597,7 +5019,8 @@
         "category": "テレビ",
         "time": "25:35～",
         "title": "テレビ東京「日向坂で会いましょう」見逃し配信＆ひかりＴＶ、d TVチャンネル「ひなちょい Season2」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5198?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5198?ima=0000",
+        "members": []
     },
     {
         "id": "7035",
@@ -3605,7 +5028,21 @@
         "category": "雑誌",
         "time": "",
         "title": "「B.L.T」2023年2月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7035?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7035?ima=0000",
+        "members": [
+            "石塚 瑶季",
+            "岸 帆夏",
+            "小西 夏菜実",
+            "清水 理央",
+            "正源司 陽子",
+            "竹内 希来里",
+            "平尾 帆夏",
+            "平岡 海月",
+            "藤嶌 果歩",
+            "宮地 すみれ",
+            "山下 葉留花",
+            "渡辺 莉奈"
+        ]
     },
     {
         "id": "7010",
@@ -3613,7 +5050,10 @@
         "category": "テレビ",
         "time": "19:00～",
         "title": "テレビ朝日「クイズプレゼンバラエティー Qさま!!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7010?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7010?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "7011",
@@ -3621,7 +5061,10 @@
         "category": "テレビ",
         "time": "18:00～",
         "title": "TBS系「SASUKE2022」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7011?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7011?ima=0000",
+        "members": [
+            "東村 芽依"
+        ]
     },
     {
         "id": "5855",
@@ -3629,7 +5072,10 @@
         "category": "ラジオ",
         "time": "23:45～25:00",
         "title": "文化放送「レコメン!」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5855?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5855?ima=0000",
+        "members": [
+            "加藤 史帆"
+        ]
     },
     {
         "id": "6790",
@@ -3637,7 +5083,10 @@
         "category": "テレビ",
         "time": "25:29～",
         "title": "日本テレビ「ぴーすおぶけーき」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6790?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6790?ima=0000",
+        "members": [
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "6940",
@@ -3645,7 +5094,10 @@
         "category": "テレビ",
         "time": "5:20～",
         "title": "TBS「THE TIME,」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6940?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6940?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "7034",
@@ -3653,7 +5105,11 @@
         "category": "雑誌",
         "time": "",
         "title": "「BUBUKA」2月号",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7034?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7034?ima=0000",
+        "members": [
+            "上村 ひなの",
+            "藤嶌 果歩"
+        ]
     },
     {
         "id": "7048",
@@ -3661,7 +5117,10 @@
         "category": "配信",
         "time": "21:00～",
         "title": "影山優佳Instagram「インスタライブ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7048?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7048?ima=0000",
+        "members": [
+            "影山 優佳"
+        ]
     },
     {
         "id": "5263",
@@ -3669,7 +5128,10 @@
         "category": "ラジオ",
         "time": "23:30～",
         "title": "MBSラジオ「アッパレやってまーす！～木曜日です～」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5263?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5263?ima=0000",
+        "members": [
+            "齊藤 京子"
+        ]
     },
     {
         "id": "5192",
@@ -3677,7 +5139,8 @@
         "category": "雑誌",
         "time": "",
         "title": "「FRIDAY」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
     },
     {
         "id": "6070",
@@ -3685,7 +5148,11 @@
         "category": "ラジオ",
         "time": "11:30～",
         "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6070?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6070?ima=0000",
+        "members": [
+            "影山 優佳",
+            "佐々木 美玲"
+        ]
     },
     {
         "id": "5194",
@@ -3693,7 +5160,8 @@
         "category": "ラジオ",
         "time": "20:00～20:30",
         "title": "TOKYO FM「ベルク presents 日向坂46の余計な事までやりましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5194?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5194?ima=0000",
+        "members": []
     },
     {
         "id": "7045",
@@ -3701,7 +5169,10 @@
         "category": "誕生日",
         "time": "",
         "title": "宮地 すみれの誕生日",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7045?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7045?ima=0000",
+        "members": [
+            "宮地 すみれ"
+        ]
     },
     {
         "id": "6902",
@@ -3709,7 +5180,8 @@
         "category": "テレビ",
         "time": "19:20～",
         "title": "NHK総合「第73回NHK紅白歌合戦」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/6902?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/6902?ima=0000",
+        "members": []
     },
     {
         "id": "5182",
@@ -3717,7 +5189,10 @@
         "category": "ラジオ",
         "time": "22:00～",
         "title": "ニッポン放送「ひなこいpresents 日向坂46 松田好花の日向坂高校放送部」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/5182?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5182?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
     },
     {
         "id": "7049",
@@ -3725,6 +5200,7 @@
         "category": "テレビ",
         "time": "23:45～",
         "title": "TBS系「CDTVライブ！ライブ！年越しスペシャル2022→2023」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/7049?ima=0000"
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7049?ima=0000",
+        "members": []
     }
 ]

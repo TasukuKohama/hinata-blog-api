@@ -5,7 +5,7 @@ import datetime
 import time
 import os
 
-FETCH_ALL_PAST = True
+FETCH_ALL_PAST = False
 print("公式スケジュールの取得を開始します（詳細ページからのメンバー抽出含む）...")
 
 # ① 過去の取得済みデータを読み込んでおく（詳細ページへの無駄なアクセスを防ぐため）
