@@ -86,8 +86,11 @@ for yyyymm in target_months:
                 title_tag = item.find('p', class_='c-schedule__text')
                 title = title_tag.text.strip() if title_tag else "タイトル不明"
                 
-                item_id = url_path.split('/')[-1].split('?')[0] if url_path else f"{full_date}_{len(all_schedules)}"
-                
+                # URLから取り出したID（URLがない場合は取得順の数字）
+                base_id = url_path.split('/')[-1].split('?')[0] if url_path else str(len(all_schedules))
+                # 「日付_番組ID」の形にして、絶対に被らない一意のIDを作る！
+                item_id = f"{full_date}_{base_id}"
+
                 members = []
                 
                 # ② メンバー取得ロジック（キャッシュに無ければ詳細ページへアクセス）

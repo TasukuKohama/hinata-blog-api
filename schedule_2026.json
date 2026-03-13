@@ -1,6 +1,1096 @@
 [
     {
-        "id": "11075",
+        "id": "2026-01-01_11160",
+        "date": "2026-01-01",
+        "category": "ラジオ",
+        "time": "13:00～18:30",
+        "title": "FM山陰「エフエム山陰 新春特番 2026！生放送で馬っしぐら！」コメント出演",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11160?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-01-01_10843",
+        "date": "2026-01-01",
+        "category": "WEB連載",
+        "time": "18:00～",
+        "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "members": [
+            "平岡 海月"
+        ]
+    },
+    {
+        "id": "2026-01-01_11117",
+        "date": "2026-01-01",
+        "category": "ラジオ",
+        "time": "25:00～27:00",
+        "title": "ニッポン放送『オールナイトニッポン～あだち充画業55周年SP～』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11117?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-02_5192",
+        "date": "2026-01-02",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-02_10672",
+        "date": "2026-01-02",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-01-02_11161",
+        "date": "2026-01-02",
+        "category": "配信",
+        "time": "18:00～",
+        "title": "「春日ロケーション〜春日プロデューサーの旅番組〜Season5」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11161?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-02_11159",
+        "date": "2026-01-02",
+        "category": "テレビ",
+        "time": "18:25～",
+        "title": "フジテレビ「爆笑レッドカーペット」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11159?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-02_10111",
+        "date": "2026-01-02",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-03_10118",
+        "date": "2026-01-03",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-01-04_10095",
+        "date": "2026-01-04",
+        "category": "雑誌",
+        "time": "",
+        "title": "「日経エンタテインメント！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10095?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-01-04_11164",
+        "date": "2026-01-04",
+        "category": "テレビ",
+        "time": "17:30～",
+        "title": "テレビ東京「今期なに見るTV」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11164?ima=0000",
+        "members": [
+            "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-01-04_9892",
+        "date": "2026-01-04",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-01-04_11153",
+        "date": "2026-01-04",
+        "category": "テレビ",
+        "time": "25:45～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11153?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-04_11154",
+        "date": "2026-01-04",
+        "category": "配信",
+        "time": "26:15～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11154?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-05_10450",
+        "date": "2026-01-05",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-01-05_10858",
+        "date": "2026-01-05",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-01-08_11152",
+        "date": "2026-01-08",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11152?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-09_5192",
+        "date": "2026-01-09",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-09_10672",
+        "date": "2026-01-09",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-01-09_11161",
+        "date": "2026-01-09",
+        "category": "配信",
+        "time": "18:00～",
+        "title": "「春日ロケーション〜春日プロデューサーの旅番組〜Season5」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11161?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-09_11169",
+        "date": "2026-01-09",
+        "category": "テレビ",
+        "time": "23:00～",
+        "title": "ドラマ「ストロボ・エッジ Season2」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11169?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-09_10111",
+        "date": "2026-01-09",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-09_11167",
+        "date": "2026-01-09",
+        "category": "テレビ",
+        "time": "25:15～",
+        "title": "テレビ朝日「ラブ!!Jリーグ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11167?ima=0000",
+        "members": [
+            "宮地 すみれ"
+        ]
+    },
+    {
+        "id": "2026-01-10_11141",
+        "date": "2026-01-10",
+        "category": "イベント",
+        "time": "20:00～",
+        "title": "バーチャルみやざき メタバースで「ひなたと日向」2026 生配信イベント",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11141?ima=0000",
+        "members": [
+            "髙橋 未来虹",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-01-10_10118",
+        "date": "2026-01-10",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-01-11_11170",
+        "date": "2026-01-11",
+        "category": "ラジオ",
+        "time": "10:00～",
+        "title": "文化放送「ますだおかだ岡田圭右とアンタッチャブル柴田英嗣のおかしば」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11170?ima=0000",
+        "members": [
+            "山下 葉留花",
+            "渡辺 莉奈"
+        ]
+    },
+    {
+        "id": "2026-01-11_9892",
+        "date": "2026-01-11",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-01-11_11151",
+        "date": "2026-01-11",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11151?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-12_10450",
+        "date": "2026-01-12",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-01-12_10858",
+        "date": "2026-01-12",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-01-14_11182",
+        "date": "2026-01-14",
+        "category": "雑誌",
+        "time": "",
+        "title": "「週刊少年サンデー」7号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11182?ima=0000",
+        "members": [
+            "藤嶌 果歩"
+        ]
+    },
+    {
+        "id": "2026-01-14_11181",
+        "date": "2026-01-14",
+        "category": "ラジオ",
+        "time": "22:00～",
+        "title": "TBSラジオ「佐倉綾音 論理×ロンリー」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11181?ima=0000",
+        "members": [
+            "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-01-15_7039",
+        "date": "2026-01-15",
+        "category": "誕生日",
+        "time": "",
+        "title": "清水 理央の誕生日",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/7039?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-01-15_11152",
+        "date": "2026-01-15",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11152?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-16_5192",
+        "date": "2026-01-16",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-16_10672",
+        "date": "2026-01-16",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-01-16_11161",
+        "date": "2026-01-16",
+        "category": "配信",
+        "time": "18:00～",
+        "title": "「春日ロケーション〜春日プロデューサーの旅番組〜Season5」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11161?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-16_11190",
+        "date": "2026-01-16",
+        "category": "配信",
+        "time": "20:00～21:00",
+        "title": "SHOWROOM配信(宮地すみれ)",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11190?ima=0000",
+        "members": [
+            "宮地 すみれ"
+        ]
+    },
+    {
+        "id": "2026-01-16_11192",
+        "date": "2026-01-16",
+        "category": "配信",
+        "time": "21:00～",
+        "title": "ABEMA「カンニング竹山のイチバン研究所」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11192?ima=0000",
+        "members": [
+            "石塚 瑶季"
+        ]
+    },
+    {
+        "id": "2026-01-16_11188",
+        "date": "2026-01-16",
+        "category": "配信",
+        "time": "21:00～22:00",
+        "title": "ABEMA「SHIBUYA ANIME BASE」生配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11188?ima=0000",
+        "members": [
+            "大田 美月",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-01-16_11169",
+        "date": "2026-01-16",
+        "category": "テレビ",
+        "time": "23:00～",
+        "title": "ドラマ「ストロボ・エッジ Season2」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11169?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-16_11191",
+        "date": "2026-01-16",
+        "category": "テレビ",
+        "time": "23:00～",
+        "title": "フジテレビ「全力！脱力タイムズ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11191?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-16_10111",
+        "date": "2026-01-16",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-16_11189",
+        "date": "2026-01-16",
+        "category": "テレビ",
+        "time": "25:15～",
+        "title": "テレビ朝日「ラブ!!Jリーグ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11189?ima=0000",
+        "members": [
+            "宮地 すみれ"
+        ]
+    },
+    {
+        "id": "2026-01-17_10118",
+        "date": "2026-01-17",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-01-18_9892",
+        "date": "2026-01-18",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-01-18_11199",
+        "date": "2026-01-18",
+        "category": "配信",
+        "time": "20:00～",
+        "title": "SHOWROOM配信(清水理央)",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11199?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-01-18_11151",
+        "date": "2026-01-18",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11151?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-19_10450",
+        "date": "2026-01-19",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-01-19_10858",
+        "date": "2026-01-19",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-01-21_11209",
+        "date": "2026-01-21",
+        "category": "テレビ",
+        "time": "19:00～",
+        "title": "MRT宮崎放送「わけもん！！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11209?ima=0000",
+        "members": [
+            "小西 夏菜実",
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-01-22_11210",
+        "date": "2026-01-22",
+        "category": "雑誌",
+        "time": "",
+        "title": "「週刊少年チャンピオン」2026年No.8",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11210?ima=0000",
+        "members": [
+            "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-01-22_11211",
+        "date": "2026-01-22",
+        "category": "テレビ",
+        "time": "21:00～",
+        "title": "フジテレビ「この世界は1ダフル 」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11211?ima=0000",
+        "members": [
+            "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-01-22_11212",
+        "date": "2026-01-22",
+        "category": "配信",
+        "time": "22:00～",
+        "title": "SHOWROOM配信(上村ひなの・山口陽世)",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11212?ima=0000",
+        "members": [
+            "上村 ひなの",
+            "山口 陽世"
+        ]
+    },
+    {
+        "id": "2026-01-22_11152",
+        "date": "2026-01-22",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11152?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-22_11220",
+        "date": "2026-01-22",
+        "category": "テレビ",
+        "time": "5:25～",
+        "title": "フジテレビ「めざましテレビ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11220?ima=0000",
+        "members": [
+            "小坂 菜緒",
+            "藤嶌 果歩"
+        ]
+    },
+    {
+        "id": "2026-01-23_5192",
+        "date": "2026-01-23",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-23_10218",
+        "date": "2026-01-23",
+        "category": "誕生日",
+        "time": "",
+        "title": "蔵盛 妃那乃の誕生日",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10218?ima=0000",
+        "members": [
+            "蔵盛 妃那乃"
+        ]
+    },
+    {
+        "id": "2026-01-23_11214",
+        "date": "2026-01-23",
+        "category": "雑誌",
+        "time": "",
+        "title": "「アップトゥボーイ」vol.359",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11214?ima=0000",
+        "members": [
+            "清水 理央",
+            "藤嶌 果歩"
+        ]
+    },
+    {
+        "id": "2026-01-23_10672",
+        "date": "2026-01-23",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-01-23_11161",
+        "date": "2026-01-23",
+        "category": "配信",
+        "time": "18:00～",
+        "title": "「春日ロケーション〜春日プロデューサーの旅番組〜Season5」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11161?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-23_11169",
+        "date": "2026-01-23",
+        "category": "テレビ",
+        "time": "23:00～",
+        "title": "ドラマ「ストロボ・エッジ Season2」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11169?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-23_10111",
+        "date": "2026-01-23",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-23_11213",
+        "date": "2026-01-23",
+        "category": "テレビ",
+        "time": "25:15～",
+        "title": "テレビ朝日「ラブ!!Jリーグ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11213?ima=0000",
+        "members": [
+            "宮地 すみれ"
+        ]
+    },
+    {
+        "id": "2026-01-24_11221",
+        "date": "2026-01-24",
+        "category": "テレビ",
+        "time": "12:00～14:00",
+        "title": "TBS「王様のブランチ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11221?ima=0000",
+        "members": [
+            "金村 美玖",
+            "正源司 陽子",
+            "藤嶌 果歩",
+            "山下 葉留花",
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-01-24_11225",
+        "date": "2026-01-24",
+        "category": "テレビ",
+        "time": "26:00～",
+        "title": "テレビ新広島「日向坂46竹内希来里の地元できらる」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11225?ima=0000",
+        "members": [
+            "竹内 希来里"
+        ]
+    },
+    {
+        "id": "2026-01-24_11163",
+        "date": "2026-01-24",
+        "category": "ラジオ",
+        "time": "27:00～",
+        "title": "ニッポン放送「日向坂46・大野愛実のオールナイトニッポン0(ZERO)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11163?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-01-24_10118",
+        "date": "2026-01-24",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-01-25_11007",
+        "date": "2026-01-25",
+        "category": "ライブ",
+        "time": "17:00～",
+        "title": "LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11007?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-25_9892",
+        "date": "2026-01-25",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-01-25_11151",
+        "date": "2026-01-25",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11151?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-26_10450",
+        "date": "2026-01-26",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-01-26_11203",
+        "date": "2026-01-26",
+        "category": "テレビ",
+        "time": "19:00～",
+        "title": "TBS「CDTVライブ!ライブ! 」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11203?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-26_10858",
+        "date": "2026-01-26",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-01-27_11227",
+        "date": "2026-01-27",
+        "category": "テレビ",
+        "time": "09:00～",
+        "title": "日本テレビ「DayDay.」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11227?ima=0000",
+        "members": [
+            "松田 好花",
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-01-28_11140",
+        "date": "2026-01-28",
+        "category": "リリース",
+        "time": "",
+        "title": "16thシングル「クリフハンガー」発売日",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11140?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-28_11168",
+        "date": "2026-01-28",
+        "category": "雑誌",
+        "time": "",
+        "title": "「装苑」2026年3月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11168?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-01-28_11184",
+        "date": "2026-01-28",
+        "category": "雑誌",
+        "time": "",
+        "title": "「B.L.T.」3月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11184?ima=0000",
+        "members": [
+            "正源司 陽子",
+            "藤嶌 果歩",
+            "渡辺 莉奈",
+            "高井 俐香"
+        ]
+    },
+    {
+        "id": "2026-01-28_11215",
+        "date": "2026-01-28",
+        "category": "雑誌",
+        "time": "",
+        "title": "「週刊少年マガジン」2026年9号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11215?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-01-28_11228",
+        "date": "2026-01-28",
+        "category": "テレビ",
+        "time": "8:00～",
+        "title": "TBS「ラヴィット！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11228?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-29_11101",
+        "date": "2026-01-29",
+        "category": "ライブ",
+        "time": "",
+        "title": "「松田好花 卒業セレモニー」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11101?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-29_11216",
+        "date": "2026-01-29",
+        "category": "雑誌",
+        "time": "",
+        "title": "「週刊少年チャンピオン」2026年No.9",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11216?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-29_11152",
+        "date": "2026-01-29",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11152?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-30_5192",
+        "date": "2026-01-30",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-01-30_11183",
+        "date": "2026-01-30",
+        "category": "雑誌",
+        "time": "",
+        "title": "「BUBKA」3月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11183?ima=0000",
+        "members": [
+            "金村 美玖",
+            "小坂 菜緒",
+            "髙橋 未来虹",
+            "石塚 瑶季",
+            "平岡 海月",
+            "藤嶌 果歩",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-01-30_10672",
+        "date": "2026-01-30",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-01-30_11161",
+        "date": "2026-01-30",
+        "category": "配信",
+        "time": "18:00～",
+        "title": "「春日ロケーション〜春日プロデューサーの旅番組〜Season5」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11161?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-01-30_11241",
+        "date": "2026-01-30",
+        "category": "テレビ",
+        "time": "19:57～",
+        "title": "NHK大阪「関西トレンド最前線 ツギ推し！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11241?ima=0000",
+        "members": [
+            "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-01-30_11239",
+        "date": "2026-01-30",
+        "category": "配信",
+        "time": "21:00～",
+        "title": "ABEMA「カンニング竹山のイチバン研究所」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11239?ima=0000",
+        "members": [
+            "宮地 すみれ"
+        ]
+    },
+    {
+        "id": "2026-01-30_11235",
+        "date": "2026-01-30",
+        "category": "配信",
+        "time": "21:30～",
+        "title": "Instagramライブ(小坂菜緒)",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11235?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-30_11169",
+        "date": "2026-01-30",
+        "category": "テレビ",
+        "time": "23:00～",
+        "title": "ドラマ「ストロボ・エッジ Season2」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11169?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-30_10111",
+        "date": "2026-01-30",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-01-31_11224",
+        "date": "2026-01-31",
+        "category": "テレビ",
+        "time": "18:30～",
+        "title": "日本テレビ「満天☆青空レストラン」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11224?ima=0000",
+        "members": [
+            "金村 美玖",
+            "髙橋 未来虹"
+        ]
+    },
+    {
+        "id": "2026-01-31_11236",
+        "date": "2026-01-31",
+        "category": "配信",
+        "time": "20:00～",
+        "title": "Instagramライブ(正源司陽子)",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11236?ima=0000",
+        "members": [
+            "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-01-31_10118",
+        "date": "2026-01-31",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-02-01_11075",
         "date": "2026-02-01",
         "category": "イベント",
         "time": "11:00～",
@@ -9,7 +1099,29 @@
         "members": []
     },
     {
-        "id": "11237",
+        "id": "2026-02-01_10843",
+        "date": "2026-02-01",
+        "category": "WEB連載",
+        "time": "18:00～",
+        "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "members": [
+            "平岡 海月"
+        ]
+    },
+    {
+        "id": "2026-02-01_9892",
+        "date": "2026-02-01",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-02-01_11237",
         "date": "2026-02-01",
         "category": "配信",
         "time": "21:00～",
@@ -20,7 +1132,7 @@
         ]
     },
     {
-        "id": "11151",
+        "id": "2026-02-01_11151",
         "date": "2026-02-01",
         "category": "配信",
         "time": "25:50～",
@@ -29,7 +1141,27 @@
         "members": []
     },
     {
-        "id": "11243",
+        "id": "2026-02-02_10450",
+        "date": "2026-02-02",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-02-02_11243",
         "date": "2026-02-02",
         "category": "ラジオ",
         "time": "20:00～",
@@ -40,7 +1172,18 @@
         ]
     },
     {
-        "id": "11242",
+        "id": "2026-02-02_10858",
+        "date": "2026-02-02",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-02-02_11242",
         "date": "2026-02-02",
         "category": "テレビ",
         "time": "24:40～",
@@ -52,7 +1195,7 @@
         ]
     },
     {
-        "id": "11249",
+        "id": "2026-02-03_11249",
         "date": "2026-02-03",
         "category": "雑誌",
         "time": "",
@@ -64,7 +1207,18 @@
         ]
     },
     {
-        "id": "11244",
+        "id": "2026-02-04_10095",
+        "date": "2026-02-04",
+        "category": "雑誌",
+        "time": "",
+        "title": "「日経エンタテインメント！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10095?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-02-04_11244",
         "date": "2026-02-04",
         "category": "雑誌",
         "time": "",
@@ -75,7 +1229,7 @@
         ]
     },
     {
-        "id": "11251",
+        "id": "2026-02-04_11251",
         "date": "2026-02-04",
         "category": "配信",
         "time": "22:30～",
@@ -86,7 +1240,7 @@
         ]
     },
     {
-        "id": "11252",
+        "id": "2026-02-04_11252",
         "date": "2026-02-04",
         "category": "テレビ",
         "time": "23:06～",
@@ -97,7 +1251,7 @@
         ]
     },
     {
-        "id": "11253",
+        "id": "2026-02-05_11253",
         "date": "2026-02-05",
         "category": "雑誌",
         "time": "",
@@ -108,7 +1262,41 @@
         ]
     },
     {
-        "id": "11161",
+        "id": "2026-02-05_11152",
+        "date": "2026-02-05",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11152?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-02-06_5192",
+        "date": "2026-02-06",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-06_10672",
+        "date": "2026-02-06",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-02-06_11161",
         "date": "2026-02-06",
         "category": "配信",
         "time": "18:00～",
@@ -119,7 +1307,7 @@
         ]
     },
     {
-        "id": "11255",
+        "id": "2026-02-06_11255",
         "date": "2026-02-06",
         "category": "放送",
         "time": "19:00～21:00",
@@ -130,7 +1318,7 @@
         ]
     },
     {
-        "id": "11256",
+        "id": "2026-02-06_11256",
         "date": "2026-02-06",
         "category": "配信",
         "time": "21:00～",
@@ -141,7 +1329,29 @@
         ]
     },
     {
-        "id": "7047",
+        "id": "2026-02-06_11169",
+        "date": "2026-02-06",
+        "category": "テレビ",
+        "time": "23:00～",
+        "title": "ドラマ「ストロボ・エッジ Season2」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11169?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-02-06_10111",
+        "date": "2026-02-06",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-02-07_7047",
         "date": "2026-02-07",
         "category": "誕生日",
         "time": "",
@@ -152,7 +1362,18 @@
         ]
     },
     {
-        "id": "11076",
+        "id": "2026-02-07_10118",
+        "date": "2026-02-07",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-02-08_11076",
         "date": "2026-02-08",
         "category": "イベント",
         "time": "11:00～",
@@ -161,7 +1382,7 @@
         "members": []
     },
     {
-        "id": "11257",
+        "id": "2026-02-08_11257",
         "date": "2026-02-08",
         "category": "テレビ",
         "time": "15:20～",
@@ -173,7 +1394,18 @@
         ]
     },
     {
-        "id": "11265",
+        "id": "2026-02-08_9892",
+        "date": "2026-02-08",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-02-08_11265",
         "date": "2026-02-08",
         "category": "テレビ",
         "time": "26:08～",
@@ -182,7 +1414,7 @@
         "members": []
     },
     {
-        "id": "11267",
+        "id": "2026-02-08_11267",
         "date": "2026-02-08",
         "category": "配信",
         "time": "26:38～",
@@ -191,7 +1423,7 @@
         "members": []
     },
     {
-        "id": "11258",
+        "id": "2026-02-09_11258",
         "date": "2026-02-09",
         "category": "雑誌",
         "time": "",
@@ -205,7 +1437,27 @@
         ]
     },
     {
-        "id": "11260",
+        "id": "2026-02-09_10450",
+        "date": "2026-02-09",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-02-09_11260",
         "date": "2026-02-09",
         "category": "ラジオ",
         "time": "21:45～",
@@ -217,7 +1469,18 @@
         ]
     },
     {
-        "id": "11259",
+        "id": "2026-02-09_10858",
+        "date": "2026-02-09",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-02-09_11259",
         "date": "2026-02-09",
         "category": "テレビ",
         "time": "25:25～",
@@ -229,7 +1492,7 @@
         ]
     },
     {
-        "id": "11263",
+        "id": "2026-02-10_11263",
         "date": "2026-02-10",
         "category": "雑誌",
         "time": "",
@@ -241,7 +1504,7 @@
         ]
     },
     {
-        "id": "11261",
+        "id": "2026-02-10_11261",
         "date": "2026-02-10",
         "category": "テレビ",
         "time": "19:00～",
@@ -253,7 +1516,7 @@
         ]
     },
     {
-        "id": "11262",
+        "id": "2026-02-10_11262",
         "date": "2026-02-10",
         "category": "テレビ",
         "time": "20:00～",
@@ -265,7 +1528,7 @@
         ]
     },
     {
-        "id": "11077",
+        "id": "2026-02-11_11077",
         "date": "2026-02-11",
         "category": "イベント",
         "time": "11:00～",
@@ -274,7 +1537,27 @@
         "members": []
     },
     {
-        "id": "11286",
+        "id": "2026-02-12_11152",
+        "date": "2026-02-12",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11152?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-02-13_5192",
+        "date": "2026-02-13",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-13_11286",
         "date": "2026-02-13",
         "category": "雑誌",
         "time": "",
@@ -286,7 +1569,21 @@
         ]
     },
     {
-        "id": "11169",
+        "id": "2026-02-13_10672",
+        "date": "2026-02-13",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-02-13_11169",
         "date": "2026-02-13",
         "category": "テレビ",
         "time": "23:00～",
@@ -297,7 +1594,18 @@
         ]
     },
     {
-        "id": "11278",
+        "id": "2026-02-13_10111",
+        "date": "2026-02-13",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-02-13_11278",
         "date": "2026-02-13",
         "category": "テレビ",
         "time": "24:59～",
@@ -306,7 +1614,7 @@
         "members": []
     },
     {
-        "id": "7040",
+        "id": "2026-02-14_7040",
         "date": "2026-02-14",
         "category": "誕生日",
         "time": "",
@@ -317,7 +1625,7 @@
         ]
     },
     {
-        "id": "11078",
+        "id": "2026-02-14_11078",
         "date": "2026-02-14",
         "category": "イベント",
         "time": "11:00～",
@@ -326,7 +1634,18 @@
         "members": []
     },
     {
-        "id": "11079",
+        "id": "2026-02-14_10118",
+        "date": "2026-02-14",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-02-15_11079",
         "date": "2026-02-15",
         "category": "イベント",
         "time": "11:00～",
@@ -335,7 +1654,36 @@
         "members": []
     },
     {
-        "id": "11289",
+        "id": "2026-02-15_9892",
+        "date": "2026-02-15",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-02-15_11264",
+        "date": "2026-02-15",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-15_11266",
+        "date": "2026-02-15",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-16_11289",
         "date": "2026-02-16",
         "category": "雑誌",
         "time": "",
@@ -350,7 +1698,27 @@
         ]
     },
     {
-        "id": "11299",
+        "id": "2026-02-16_10450",
+        "date": "2026-02-16",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-02-16_11299",
         "date": "2026-02-16",
         "category": "配信",
         "time": "18:15～",
@@ -361,7 +1729,30 @@
         ]
     },
     {
-        "id": "11297",
+        "id": "2026-02-16_10858",
+        "date": "2026-02-16",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-02-16_11246",
+        "date": "2026-02-16",
+        "category": "テレビ",
+        "time": "24:40～",
+        "title": "テレビ東京「怪奇ファイル2026冬」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11246?ima=0000",
+        "members": [
+            "正源司 陽子",
+            "藤嶌 果歩"
+        ]
+    },
+    {
+        "id": "2026-02-18_11297",
         "date": "2026-02-18",
         "category": "雑誌",
         "time": "",
@@ -373,7 +1764,7 @@
         ]
     },
     {
-        "id": "11298",
+        "id": "2026-02-18_11298",
         "date": "2026-02-18",
         "category": "ラジオ",
         "time": "25:09～",
@@ -384,7 +1775,18 @@
         ]
     },
     {
-        "id": "11317",
+        "id": "2026-02-19_11152",
+        "date": "2026-02-19",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11152?ima=0000",
+        "members": [
+            "松田 好花"
+        ]
+    },
+    {
+        "id": "2026-02-20_11317",
         "date": "2026-02-20",
         "category": "雑誌",
         "time": "",
@@ -395,7 +1797,16 @@
         ]
     },
     {
-        "id": "7041",
+        "id": "2026-02-20_5192",
+        "date": "2026-02-20",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-20_7041",
         "date": "2026-02-20",
         "category": "誕生日",
         "time": "",
@@ -406,7 +1817,7 @@
         ]
     },
     {
-        "id": "11304",
+        "id": "2026-02-20_11304",
         "date": "2026-02-20",
         "category": "雑誌",
         "time": "",
@@ -421,7 +1832,7 @@
         ]
     },
     {
-        "id": "11320",
+        "id": "2026-02-20_11320",
         "date": "2026-02-20",
         "category": "雑誌",
         "time": "",
@@ -432,7 +1843,32 @@
         ]
     },
     {
-        "id": "11287",
+        "id": "2026-02-20_10672",
+        "date": "2026-02-20",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-02-20_10111",
+        "date": "2026-02-20",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-02-21_11287",
         "date": "2026-02-21",
         "category": "配信",
         "time": "19:00～",
@@ -443,7 +1879,18 @@
         ]
     },
     {
-        "id": "11080",
+        "id": "2026-02-21_10118",
+        "date": "2026-02-21",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-02-22_11080",
         "date": "2026-02-22",
         "category": "イベント",
         "time": "11:00～",
@@ -452,7 +1899,36 @@
         "members": []
     },
     {
-        "id": "3289",
+        "id": "2026-02-22_9892",
+        "date": "2026-02-22",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-02-22_11264",
+        "date": "2026-02-22",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-22_11266",
+        "date": "2026-02-22",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-23_3289",
         "date": "2026-02-23",
         "category": "誕生日",
         "time": "",
@@ -463,7 +1939,7 @@
         ]
     },
     {
-        "id": "3290",
+        "id": "2026-02-23_3290",
         "date": "2026-02-23",
         "category": "誕生日",
         "time": "",
@@ -474,7 +1950,7 @@
         ]
     },
     {
-        "id": "11081",
+        "id": "2026-02-23_11081",
         "date": "2026-02-23",
         "category": "イベント",
         "time": "11:00～",
@@ -483,7 +1959,27 @@
         "members": []
     },
     {
-        "id": "11315",
+        "id": "2026-02-23_10450",
+        "date": "2026-02-23",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-02-23_11315",
         "date": "2026-02-23",
         "category": "配信",
         "time": "22:00～",
@@ -495,7 +1991,18 @@
         ]
     },
     {
-        "id": "11246",
+        "id": "2026-02-23_10858",
+        "date": "2026-02-23",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-02-23_11246",
         "date": "2026-02-23",
         "category": "テレビ",
         "time": "24:40～",
@@ -507,7 +2014,7 @@
         ]
     },
     {
-        "id": "11322",
+        "id": "2026-02-24_11322",
         "date": "2026-02-24",
         "category": "テレビ",
         "time": "11:55～",
@@ -518,7 +2025,7 @@
         ]
     },
     {
-        "id": "11343",
+        "id": "2026-02-24_11343",
         "date": "2026-02-24",
         "category": "テレビ",
         "time": "19:57～",
@@ -527,7 +2034,7 @@
         "members": []
     },
     {
-        "id": "11288",
+        "id": "2026-02-25_11288",
         "date": "2026-02-25",
         "category": "配信",
         "time": "19:00～",
@@ -538,7 +2045,7 @@
         ]
     },
     {
-        "id": "11348",
+        "id": "2026-02-25_11348",
         "date": "2026-02-25",
         "category": "テレビ",
         "time": "19:00～",
@@ -549,7 +2056,7 @@
         ]
     },
     {
-        "id": "11254",
+        "id": "2026-02-26_11254",
         "date": "2026-02-26",
         "category": "イベント",
         "time": "15:35～",
@@ -560,7 +2067,7 @@
         ]
     },
     {
-        "id": "11217",
+        "id": "2026-02-26_11217",
         "date": "2026-02-26",
         "category": "テレビ",
         "time": "22:00～",
@@ -571,7 +2078,7 @@
         ]
     },
     {
-        "id": "11152",
+        "id": "2026-02-26_11152",
         "date": "2026-02-26",
         "category": "ラジオ",
         "time": "24:00～",
@@ -582,7 +2089,7 @@
         ]
     },
     {
-        "id": "11349",
+        "id": "2026-02-26_11349",
         "date": "2026-02-26",
         "category": "テレビ",
         "time": "24:59～",
@@ -593,7 +2100,16 @@
         ]
     },
     {
-        "id": "11350",
+        "id": "2026-02-27_5192",
+        "date": "2026-02-27",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-02-27_11350",
         "date": "2026-02-27",
         "category": "雑誌",
         "time": "",
@@ -605,7 +2121,7 @@
         ]
     },
     {
-        "id": "11351",
+        "id": "2026-02-27_11351",
         "date": "2026-02-27",
         "category": "映画",
         "time": "",
@@ -617,7 +2133,43 @@
         ]
     },
     {
-        "id": "11082",
+        "id": "2026-02-27_10672",
+        "date": "2026-02-27",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-02-27_10111",
+        "date": "2026-02-27",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-02-28_10118",
+        "date": "2026-02-28",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-03-01_11082",
         "date": "2026-03-01",
         "category": "イベント",
         "time": "11:00～",
@@ -626,7 +2178,47 @@
         "members": []
     },
     {
-        "id": "11367",
+        "id": "2026-03-01_10843",
+        "date": "2026-03-01",
+        "category": "WEB連載",
+        "time": "18:00～",
+        "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "members": [
+            "平岡 海月"
+        ]
+    },
+    {
+        "id": "2026-03-01_9892",
+        "date": "2026-03-01",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-03-01_11264",
+        "date": "2026-03-01",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-01_11266",
+        "date": "2026-03-01",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-02_11367",
         "date": "2026-03-02",
         "category": "テレビ",
         "time": "09:00～",
@@ -638,7 +2230,27 @@
         ]
     },
     {
-        "id": "11368",
+        "id": "2026-03-02_10450",
+        "date": "2026-03-02",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-03-02_11368",
         "date": "2026-03-02",
         "category": "ラジオ",
         "time": "18:26～",
@@ -650,7 +2262,18 @@
         ]
     },
     {
-        "id": "11352",
+        "id": "2026-03-02_10858",
+        "date": "2026-03-02",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-03-03_11352",
         "date": "2026-03-03",
         "category": "テレビ",
         "time": "22:00～",
@@ -661,7 +2284,7 @@
         ]
     },
     {
-        "id": "11353",
+        "id": "2026-03-03_11353",
         "date": "2026-03-03",
         "category": "テレビ",
         "time": "23:06～",
@@ -672,7 +2295,7 @@
         ]
     },
     {
-        "id": "10095",
+        "id": "2026-03-04_10095",
         "date": "2026-03-04",
         "category": "雑誌",
         "time": "",
@@ -683,7 +2306,7 @@
         ]
     },
     {
-        "id": "11370",
+        "id": "2026-03-04_11370",
         "date": "2026-03-04",
         "category": "テレビ",
         "time": "09:00～11:10",
@@ -695,7 +2318,7 @@
         ]
     },
     {
-        "id": "11369",
+        "id": "2026-03-04_11369",
         "date": "2026-03-04",
         "category": "テレビ",
         "time": "19:00～",
@@ -707,7 +2330,30 @@
         ]
     },
     {
-        "id": "11380",
+        "id": "2026-03-06_5192",
+        "date": "2026-03-06",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-06_10672",
+        "date": "2026-03-06",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-03-06_11380",
         "date": "2026-03-06",
         "category": "配信",
         "time": "21:00～",
@@ -718,7 +2364,18 @@
         ]
     },
     {
-        "id": "11083",
+        "id": "2026-03-06_10111",
+        "date": "2026-03-06",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-03-07_11083",
         "date": "2026-03-07",
         "category": "イベント",
         "time": "11:00～",
@@ -727,7 +2384,29 @@
         "members": []
     },
     {
-        "id": "11381",
+        "id": "2026-03-07_10118",
+        "date": "2026-03-07",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-03-08_9892",
+        "date": "2026-03-08",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-03-08_11381",
         "date": "2026-03-08",
         "category": "テレビ",
         "time": "22:00～",
@@ -739,7 +2418,56 @@
         ]
     },
     {
-        "id": "11390",
+        "id": "2026-03-08_11264",
+        "date": "2026-03-08",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-08_11266",
+        "date": "2026-03-08",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-09_10450",
+        "date": "2026-03-09",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-03-09_10858",
+        "date": "2026-03-09",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-03-11_11390",
         "date": "2026-03-11",
         "category": "テレビ",
         "time": "19:00～",
@@ -751,7 +2479,7 @@
         ]
     },
     {
-        "id": "11412",
+        "id": "2026-03-12_11412",
         "date": "2026-03-12",
         "category": "テレビ",
         "time": "19:00～",
@@ -762,7 +2490,30 @@
         ]
     },
     {
-        "id": "11418",
+        "id": "2026-03-13_5192",
+        "date": "2026-03-13",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-13_10672",
+        "date": "2026-03-13",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-03-13_11418",
         "date": "2026-03-13",
         "category": "配信",
         "time": "20:00～",
@@ -773,7 +2524,18 @@
         ]
     },
     {
-        "id": "10219",
+        "id": "2026-03-13_10111",
+        "date": "2026-03-13",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-03-14_10219",
         "date": "2026-03-14",
         "category": "誕生日",
         "time": "",
@@ -784,7 +2546,7 @@
         ]
     },
     {
-        "id": "11316",
+        "id": "2026-03-14_11316",
         "date": "2026-03-14",
         "category": "イベント",
         "time": "",
@@ -796,7 +2558,67 @@
         ]
     },
     {
-        "id": "11391",
+        "id": "2026-03-14_10118",
+        "date": "2026-03-14",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-03-15_9892",
+        "date": "2026-03-15",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-03-15_11264",
+        "date": "2026-03-15",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-15_11266",
+        "date": "2026-03-15",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-16_10450",
+        "date": "2026-03-16",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-03-16_11391",
         "date": "2026-03-16",
         "category": "テレビ",
         "time": "21:00～",
@@ -807,7 +2629,27 @@
         ]
     },
     {
-        "id": "11084",
+        "id": "2026-03-16_10858",
+        "date": "2026-03-16",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-03-20_5192",
+        "date": "2026-03-20",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-20_11084",
         "date": "2026-03-20",
         "category": "イベント",
         "time": "11:00～",
@@ -816,7 +2658,32 @@
         "members": []
     },
     {
-        "id": "11318",
+        "id": "2026-03-20_10672",
+        "date": "2026-03-20",
+        "category": "ラジオ",
+        "time": "11:30～",
+        "title": "TOKYO FM「ローソン presents 日向坂46のほっとひといき！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10672?ima=0000",
+        "members": [
+            "河田 陽菜",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-03-20_10111",
+        "date": "2026-03-20",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-03-21_11318",
         "date": "2026-03-21",
         "category": "雑誌",
         "time": "",
@@ -827,7 +2694,87 @@
         ]
     },
     {
-        "id": "10223",
+        "id": "2026-03-21_10118",
+        "date": "2026-03-21",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-03-22_9892",
+        "date": "2026-03-22",
+        "category": "ラジオ",
+        "time": "18:30～19:00",
+        "title": "文化放送『日向坂46の「ひ」』",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/9892?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-03-22_11264",
+        "date": "2026-03-22",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-22_11266",
+        "date": "2026-03-22",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-23_10450",
+        "date": "2026-03-23",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-03-23_10858",
+        "date": "2026-03-23",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "bayfm「清水理央のCheer up！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10858?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-03-27_5192",
+        "date": "2026-03-27",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-27_10223",
         "date": "2026-03-27",
         "category": "誕生日",
         "time": "",
@@ -838,7 +2785,7 @@
         ]
     },
     {
-        "id": "10672",
+        "id": "2026-03-27_10672",
         "date": "2026-03-27",
         "category": "ラジオ",
         "time": "11:30～",
@@ -852,7 +2799,29 @@
         ]
     },
     {
-        "id": "9892",
+        "id": "2026-03-27_10111",
+        "date": "2026-03-27",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-03-28_10118",
+        "date": "2026-03-28",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-03-29_9892",
         "date": "2026-03-29",
         "category": "ラジオ",
         "time": "18:30～19:00",
@@ -863,7 +2832,56 @@
         ]
     },
     {
-        "id": "10858",
+        "id": "2026-03-29_11264",
+        "date": "2026-03-29",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-29_11266",
+        "date": "2026-03-29",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-03-30_10450",
+        "date": "2026-03-30",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-03-30_11313",
+        "date": "2026-03-30",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-03-30_10858",
         "date": "2026-03-30",
         "category": "ラジオ",
         "time": "24:00～",
@@ -874,7 +2892,164 @@
         ]
     },
     {
-        "id": "7043",
+        "id": "2026-03-31_11313",
+        "date": "2026-03-31",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-01_10843",
+        "date": "2026-04-01",
+        "category": "WEB連載",
+        "time": "18:00～",
+        "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "members": [
+            "平岡 海月"
+        ]
+    },
+    {
+        "id": "2026-04-01_11313",
+        "date": "2026-04-01",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-02_11313",
+        "date": "2026-04-02",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-03_5192",
+        "date": "2026-04-03",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-03_11313",
+        "date": "2026-04-03",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-03_10111",
+        "date": "2026-04-03",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-04-04_10118",
+        "date": "2026-04-04",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-04-05_11264",
+        "date": "2026-04-05",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-05_11266",
+        "date": "2026-04-05",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-06_10450",
+        "date": "2026-04-06",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-04-06_11313",
+        "date": "2026-04-06",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-07_11313",
+        "date": "2026-04-07",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-08_11313",
+        "date": "2026-04-08",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-09_7043",
         "date": "2026-04-09",
         "category": "誕生日",
         "time": "",
@@ -885,7 +3060,60 @@
         ]
     },
     {
-        "id": "1920",
+        "id": "2026-04-09_11313",
+        "date": "2026-04-09",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-10_5192",
+        "date": "2026-04-10",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-10_11313",
+        "date": "2026-04-10",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-10_10111",
+        "date": "2026-04-10",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-04-11_10118",
+        "date": "2026-04-11",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-04-12_1920",
         "date": "2026-04-12",
         "category": "誕生日",
         "time": "",
@@ -896,7 +3124,284 @@
         ]
     },
     {
-        "id": "1916",
+        "id": "2026-04-12_11264",
+        "date": "2026-04-12",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-12_11266",
+        "date": "2026-04-12",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-13_10450",
+        "date": "2026-04-13",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-04-13_11313",
+        "date": "2026-04-13",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-14_11313",
+        "date": "2026-04-14",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-15_11313",
+        "date": "2026-04-15",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-16_11313",
+        "date": "2026-04-16",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-17_5192",
+        "date": "2026-04-17",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-17_11313",
+        "date": "2026-04-17",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-17_10111",
+        "date": "2026-04-17",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-04-18_10118",
+        "date": "2026-04-18",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-04-19_11264",
+        "date": "2026-04-19",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-19_11266",
+        "date": "2026-04-19",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-20_10450",
+        "date": "2026-04-20",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-04-20_11313",
+        "date": "2026-04-20",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-21_11313",
+        "date": "2026-04-21",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-22_11319",
+        "date": "2026-04-22",
+        "category": "雑誌",
+        "time": "",
+        "title": "「VOCE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11319?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
+    },
+    {
+        "id": "2026-04-22_11313",
+        "date": "2026-04-22",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-23_11313",
+        "date": "2026-04-23",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-24_5192",
+        "date": "2026-04-24",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-24_11313",
+        "date": "2026-04-24",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-24_10111",
+        "date": "2026-04-24",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-04-25_10118",
+        "date": "2026-04-25",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-04-26_11264",
+        "date": "2026-04-26",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-26_11266",
+        "date": "2026-04-26",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-04-27_1916",
         "date": "2026-04-27",
         "category": "誕生日",
         "time": "",
@@ -907,7 +3412,60 @@
         ]
     },
     {
-        "id": "11313",
+        "id": "2026-04-27_10450",
+        "date": "2026-04-27",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-04-27_11313",
+        "date": "2026-04-27",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-28_11313",
+        "date": "2026-04-28",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-29_11313",
+        "date": "2026-04-29",
+        "category": "テレビ",
+        "time": "22:45～23:00",
+        "title": "NHK総合 夜ドラ「ラジオスター」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11313?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-30_11313",
         "date": "2026-04-30",
         "category": "テレビ",
         "time": "22:45～23:00",
@@ -918,7 +3476,87 @@
         ]
     },
     {
-        "id": "10216",
+        "id": "2026-05-01_5192",
+        "date": "2026-05-01",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-01_10843",
+        "date": "2026-05-01",
+        "category": "WEB連載",
+        "time": "18:00～",
+        "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "members": [
+            "平岡 海月"
+        ]
+    },
+    {
+        "id": "2026-05-01_10111",
+        "date": "2026-05-01",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-05-02_10118",
+        "date": "2026-05-02",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-05-03_11264",
+        "date": "2026-05-03",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-03_11266",
+        "date": "2026-05-03",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-04_10450",
+        "date": "2026-05-04",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-05-05_10216",
         "date": "2026-05-05",
         "category": "誕生日",
         "time": "",
@@ -929,7 +3567,145 @@
         ]
     },
     {
-        "id": "7046",
+        "id": "2026-05-08_5192",
+        "date": "2026-05-08",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-08_10111",
+        "date": "2026-05-08",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-05-09_10118",
+        "date": "2026-05-09",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-05-10_11264",
+        "date": "2026-05-10",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-10_11266",
+        "date": "2026-05-10",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-11_10450",
+        "date": "2026-05-11",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-05-15_5192",
+        "date": "2026-05-15",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-15_10111",
+        "date": "2026-05-15",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-05-16_10118",
+        "date": "2026-05-16",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-05-17_11264",
+        "date": "2026-05-17",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-17_11266",
+        "date": "2026-05-17",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-18_10450",
+        "date": "2026-05-18",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-05-20_7046",
         "date": "2026-05-20",
         "category": "誕生日",
         "time": "",
@@ -940,7 +3716,156 @@
         ]
     },
     {
-        "id": "10843",
+        "id": "2026-05-22_11319",
+        "date": "2026-05-22",
+        "category": "雑誌",
+        "time": "",
+        "title": "「VOCE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11319?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
+    },
+    {
+        "id": "2026-05-22_5192",
+        "date": "2026-05-22",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-22_10111",
+        "date": "2026-05-22",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-05-23_10118",
+        "date": "2026-05-23",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-05-24_11264",
+        "date": "2026-05-24",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-24_11266",
+        "date": "2026-05-24",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-25_10450",
+        "date": "2026-05-25",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-05-29_5192",
+        "date": "2026-05-29",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-29_10111",
+        "date": "2026-05-29",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-05-30_10118",
+        "date": "2026-05-30",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-05-31_11264",
+        "date": "2026-05-31",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-05-31_11266",
+        "date": "2026-05-31",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-01_10450",
+        "date": "2026-06-01",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-06-01_10843",
         "date": "2026-06-01",
         "category": "WEB連載",
         "time": "18:00～",
@@ -951,7 +3876,56 @@
         ]
     },
     {
-        "id": "10224",
+        "id": "2026-06-05_5192",
+        "date": "2026-06-05",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-05_10111",
+        "date": "2026-06-05",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-06-06_10118",
+        "date": "2026-06-06",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-06-07_11264",
+        "date": "2026-06-07",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-07_11266",
+        "date": "2026-06-07",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-08_10224",
         "date": "2026-06-08",
         "category": "誕生日",
         "time": "",
@@ -962,7 +3936,145 @@
         ]
     },
     {
-        "id": "11319",
+        "id": "2026-06-08_10450",
+        "date": "2026-06-08",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-06-12_5192",
+        "date": "2026-06-12",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-12_10111",
+        "date": "2026-06-12",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-06-13_10118",
+        "date": "2026-06-13",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-06-14_11264",
+        "date": "2026-06-14",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-14_11266",
+        "date": "2026-06-14",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-15_10450",
+        "date": "2026-06-15",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-06-19_5192",
+        "date": "2026-06-19",
+        "category": "雑誌",
+        "time": "",
+        "title": "「FRIDAY」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-19_10111",
+        "date": "2026-06-19",
+        "category": "ラジオ",
+        "time": "24:00～",
+        "title": "J-WAVE「SONY SONPO QUEST FOR THE FUTURE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-06-20_10118",
+        "date": "2026-06-20",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-06-21_11264",
+        "date": "2026-06-21",
+        "category": "テレビ",
+        "time": "25:20～",
+        "title": "テレビ東京「日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-21_11266",
+        "date": "2026-06-21",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「日向坂で会いましょう」見逃し配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-06-22_11319",
         "date": "2026-06-22",
         "category": "雑誌",
         "time": "",
@@ -973,7 +4085,27 @@
         ]
     },
     {
-        "id": "5192",
+        "id": "2026-06-22_10450",
+        "date": "2026-06-22",
+        "category": "配信",
+        "time": "12:00～",
+        "title": "Lemino「日向坂になりましょう -五期生成長バラエティ-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10450?ima=0000",
+        "members": [
+            "大田 美月",
+            "大野 愛実",
+            "片山 紗希",
+            "蔵盛 妃那乃",
+            "坂井 新奈",
+            "佐藤 優羽",
+            "下田 衣珠季",
+            "高井 俐香",
+            "鶴崎 仁香",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-06-26_5192",
         "date": "2026-06-26",
         "category": "雑誌",
         "time": "",
@@ -982,7 +4114,7 @@
         "members": []
     },
     {
-        "id": "10111",
+        "id": "2026-06-26_10111",
         "date": "2026-06-26",
         "category": "ラジオ",
         "time": "24:00～",
@@ -993,7 +4125,7 @@
         ]
     },
     {
-        "id": "10118",
+        "id": "2026-06-27_10118",
         "date": "2026-06-27",
         "category": "ラジオ",
         "time": "8:30～",
@@ -1004,7 +4136,7 @@
         ]
     },
     {
-        "id": "11264",
+        "id": "2026-06-28_11264",
         "date": "2026-06-28",
         "category": "テレビ",
         "time": "25:20～",
@@ -1013,7 +4145,7 @@
         "members": []
     },
     {
-        "id": "11266",
+        "id": "2026-06-28_11266",
         "date": "2026-06-28",
         "category": "配信",
         "time": "25:50～",
@@ -1022,7 +4154,7 @@
         "members": []
     },
     {
-        "id": "10450",
+        "id": "2026-06-29_10450",
         "date": "2026-06-29",
         "category": "配信",
         "time": "12:00～",
