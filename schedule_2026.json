@@ -1678,6 +1678,17 @@
         ]
     },
     {
+        "id": "2026-03-20_11442",
+        "date": "2026-03-20",
+        "category": "配信",
+        "time": "21:00～",
+        "title": "ABEMA「カンニング竹山のイチバン研究所」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11442?ima=0000",
+        "members": [
+            "山下 葉留花"
+        ]
+    },
+    {
         "id": "2026-03-20_10111",
         "date": "2026-03-20",
         "category": "ラジオ",
@@ -1722,22 +1733,33 @@
         ]
     },
     {
-        "id": "2026-03-22_11264",
+        "id": "2026-03-22_11444",
         "date": "2026-03-22",
         "category": "テレビ",
-        "time": "25:20～",
+        "time": "26:15～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11444?ima=0000",
         "members": []
     },
     {
-        "id": "2026-03-22_11266",
+        "id": "2026-03-22_11445",
         "date": "2026-03-22",
         "category": "配信",
-        "time": "25:50～",
+        "time": "26:45～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11445?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-03-23_11447",
+        "date": "2026-03-23",
+        "category": "雑誌",
+        "time": "",
+        "title": "「CanCam」5月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11447?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
     },
     {
         "id": "2026-03-23_10450",
@@ -1847,21 +1869,21 @@
         ]
     },
     {
-        "id": "2026-03-29_11264",
+        "id": "2026-03-29_11443",
         "date": "2026-03-29",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-03-29_11266",
+        "id": "2026-03-29_11446",
         "date": "2026-03-29",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -1993,21 +2015,21 @@
         ]
     },
     {
-        "id": "2026-04-05_11264",
+        "id": "2026-04-05_11443",
         "date": "2026-04-05",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-04-05_11266",
+        "id": "2026-04-05_11446",
         "date": "2026-04-05",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2139,21 +2161,21 @@
         ]
     },
     {
-        "id": "2026-04-12_11264",
+        "id": "2026-04-12_11443",
         "date": "2026-04-12",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-04-12_11266",
+        "id": "2026-04-12_11446",
         "date": "2026-04-12",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2263,21 +2285,21 @@
         ]
     },
     {
-        "id": "2026-04-19_11264",
+        "id": "2026-04-19_11443",
         "date": "2026-04-19",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-04-19_11266",
+        "id": "2026-04-19_11446",
         "date": "2026-04-19",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2398,21 +2420,21 @@
         ]
     },
     {
-        "id": "2026-04-26_11264",
+        "id": "2026-04-26_11443",
         "date": "2026-04-26",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-04-26_11266",
+        "id": "2026-04-26_11446",
         "date": "2026-04-26",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2533,21 +2555,21 @@
         ]
     },
     {
-        "id": "2026-05-03_11264",
+        "id": "2026-05-03_11443",
         "date": "2026-05-03",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-05-03_11266",
+        "id": "2026-05-03_11446",
         "date": "2026-05-03",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2613,21 +2635,21 @@
         ]
     },
     {
-        "id": "2026-05-10_11264",
+        "id": "2026-05-10_11443",
         "date": "2026-05-10",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-05-10_11266",
+        "id": "2026-05-10_11446",
         "date": "2026-05-10",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2682,21 +2704,21 @@
         ]
     },
     {
-        "id": "2026-05-17_11264",
+        "id": "2026-05-17_11443",
         "date": "2026-05-17",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-05-17_11266",
+        "id": "2026-05-17_11446",
         "date": "2026-05-17",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2773,21 +2795,21 @@
         ]
     },
     {
-        "id": "2026-05-24_11264",
+        "id": "2026-05-24_11443",
         "date": "2026-05-24",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-05-24_11266",
+        "id": "2026-05-24_11446",
         "date": "2026-05-24",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2842,21 +2864,21 @@
         ]
     },
     {
-        "id": "2026-05-31_11264",
+        "id": "2026-05-31_11443",
         "date": "2026-05-31",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-05-31_11266",
+        "id": "2026-05-31_11446",
         "date": "2026-05-31",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -2922,21 +2944,21 @@
         ]
     },
     {
-        "id": "2026-06-07_11264",
+        "id": "2026-06-07_11443",
         "date": "2026-06-07",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-06-07_11266",
+        "id": "2026-06-07_11446",
         "date": "2026-06-07",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -3002,21 +3024,21 @@
         ]
     },
     {
-        "id": "2026-06-14_11264",
+        "id": "2026-06-14_11443",
         "date": "2026-06-14",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-06-14_11266",
+        "id": "2026-06-14_11446",
         "date": "2026-06-14",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -3071,21 +3093,21 @@
         ]
     },
     {
-        "id": "2026-06-21_11264",
+        "id": "2026-06-21_11443",
         "date": "2026-06-21",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-06-21_11266",
+        "id": "2026-06-21_11446",
         "date": "2026-06-21",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
@@ -3151,21 +3173,21 @@
         ]
     },
     {
-        "id": "2026-06-28_11264",
+        "id": "2026-06-28_11443",
         "date": "2026-06-28",
         "category": "テレビ",
         "time": "25:20～",
         "title": "テレビ東京「日向坂で会いましょう」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11264?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11443?ima=0000",
         "members": []
     },
     {
-        "id": "2026-06-28_11266",
+        "id": "2026-06-28_11446",
         "date": "2026-06-28",
         "category": "配信",
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11266?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
     },
     {
