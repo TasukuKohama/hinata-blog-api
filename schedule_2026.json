@@ -1596,7 +1596,7 @@
         "date": "2026-03-17",
         "category": "テレビ",
         "time": "19:00～",
-        "title": "中京テレビ「オモウマい店」",
+        "title": "日本テレビ系「オモウマい店」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11434?ima=0000",
         "members": [
             "藤嶌 果歩",
@@ -1612,6 +1612,17 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11433?ima=0000",
         "members": [
             "坂井 新奈"
+        ]
+    },
+    {
+        "id": "2026-03-18_11440",
+        "date": "2026-03-18",
+        "category": "雑誌",
+        "time": "",
+        "title": "「週刊少年マガジン」2026年16号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11440?ima=0000",
+        "members": [
+            "正源司 陽子"
         ]
     },
     {
