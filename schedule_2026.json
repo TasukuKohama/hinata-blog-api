@@ -1052,17 +1052,6 @@
         ]
     },
     {
-        "id": "2026-04-01_10843",
-        "date": "2026-04-01",
-        "category": "WEB連載",
-        "time": "18:00～",
-        "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
-        "members": [
-            "平岡 海月"
-        ]
-    },
-    {
         "id": "2026-04-01_11501",
         "date": "2026-04-01",
         "category": "ラジオ",
@@ -1168,6 +1157,17 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11489?ima=0000",
         "members": [
             "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-04-03_11507",
+        "date": "2026-04-03",
+        "category": "配信",
+        "time": "21:30～",
+        "title": "ABEMA「しくじり先生 俺みたいになるな!!」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11507?ima=0000",
+        "members": [
+            "山下 葉留花"
         ]
     },
     {
@@ -1294,6 +1294,17 @@
             "高井 俐香",
             "鶴崎 仁香",
             "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-04-06_11511",
+        "date": "2026-04-06",
+        "category": "WEB連載",
+        "time": "18:00～",
+        "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11511?ima=0000",
+        "members": [
+            "平岡 海月"
         ]
     },
     {
@@ -1900,12 +1911,12 @@
         "members": []
     },
     {
-        "id": "2026-05-01_10843",
+        "id": "2026-05-01_11510",
         "date": "2026-05-01",
         "category": "WEB連載",
         "time": "18:00～",
         "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11510?ima=0000",
         "members": [
             "平岡 海月"
         ]
@@ -2467,12 +2478,12 @@
         ]
     },
     {
-        "id": "2026-06-01_10843",
+        "id": "2026-06-01_11510",
         "date": "2026-06-01",
         "category": "WEB連載",
         "time": "18:00～",
         "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11510?ima=0000",
         "members": [
             "平岡 海月"
         ]
@@ -2941,12 +2952,12 @@
         ]
     },
     {
-        "id": "2026-07-01_10843",
+        "id": "2026-07-01_11510",
         "date": "2026-07-01",
         "category": "WEB連載",
         "time": "18:00～",
         "title": "「日向坂46平岡海月のあま〜い漂流記　お菓子い散文連載」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/10843?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11510?ima=0000",
         "members": [
             "平岡 海月"
         ]
