@@ -1635,6 +1635,17 @@
         ]
     },
     {
+        "id": "2026-04-17_11574",
+        "date": "2026-04-17",
+        "category": "配信",
+        "time": "21:30～",
+        "title": "ABEMA「しくじり先生 俺みたいになるな!!」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11574?ima=0000",
+        "members": [
+            "上村 ひなの"
+        ]
+    },
+    {
         "id": "2026-04-17_11487",
         "date": "2026-04-17",
         "category": "ラジオ",
@@ -1703,6 +1714,17 @@
         ]
     },
     {
+        "id": "2026-04-19_11576",
+        "date": "2026-04-19",
+        "category": "配信",
+        "time": "20:00～",
+        "title": "SHOWROOM配信(鶴崎仁香)",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11576?ima=0000",
+        "members": [
+            "鶴崎 仁香"
+        ]
+    },
+    {
         "id": "2026-04-19_11443",
         "date": "2026-04-19",
         "category": "テレビ",
@@ -1752,6 +1774,18 @@
         ]
     },
     {
+        "id": "2026-04-20_11575",
+        "date": "2026-04-20",
+        "category": "ラジオ",
+        "time": "20:00～",
+        "title": "TOKYO FM「エフエムレインボー」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11575?ima=0000",
+        "members": [
+            "清水 理央",
+            "宮地 すみれ"
+        ]
+    },
+    {
         "id": "2026-04-20_11313",
         "date": "2026-04-20",
         "category": "テレビ",
@@ -1785,6 +1819,17 @@
         ]
     },
     {
+        "id": "2026-04-22_11577",
+        "date": "2026-04-22",
+        "category": "雑誌",
+        "time": "",
+        "title": "「週刊少年サンデー」21号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11577?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
         "id": "2026-04-22_11313",
         "date": "2026-04-22",
         "category": "テレビ",
@@ -1804,6 +1849,21 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11467?ima=0000",
         "members": [
             "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-04-23_11578",
+        "date": "2026-04-23",
+        "category": "雑誌",
+        "time": "",
+        "title": "「BRODY」6月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11578?ima=0000",
+        "members": [
+            "金村 美玖",
+            "髙橋 未来虹",
+            "藤嶌 果歩",
+            "片山 紗希",
+            "松尾 桜"
         ]
     },
     {
