@@ -1911,6 +1911,19 @@
         ]
     },
     {
+        "id": "2026-04-24_11616",
+        "date": "2026-04-24",
+        "category": "配信",
+        "time": "21:00～",
+        "title": "「日向坂ちゃんねる」生配信",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11616?ima=0000",
+        "members": [
+            "小坂 菜緒",
+            "森本 茉莉",
+            "鶴崎 仁香"
+        ]
+    },
+    {
         "id": "2026-04-24_11487",
         "date": "2026-04-24",
         "category": "ラジオ",
@@ -1944,6 +1957,17 @@
         ]
     },
     {
+        "id": "2026-04-24_11617",
+        "date": "2026-04-24",
+        "category": "テレビ",
+        "time": "25:59～",
+        "title": "日本テレビ「夜バケット」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11617?ima=0000",
+        "members": [
+            "正源司 陽子"
+        ]
+    },
+    {
         "id": "2026-04-25_10118",
         "date": "2026-04-25",
         "category": "ラジオ",
@@ -1952,6 +1976,17 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
         "members": [
             "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-04-26_11618",
+        "date": "2026-04-26",
+        "category": "テレビ",
+        "time": "18:30～",
+        "title": "テレビ東京「世界の給与明細」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11618?ima=0000",
+        "members": [
+            "鶴崎 仁香"
         ]
     },
     {
@@ -1982,6 +2017,17 @@
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11446?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-04-27_11621",
+        "date": "2026-04-27",
+        "category": "雑誌",
+        "time": "",
+        "title": "「Fine」2026年6月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11621?ima=0000",
+        "members": [
+            "松尾 桜"
+        ]
     },
     {
         "id": "2026-04-27_10450",
@@ -2111,6 +2157,17 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
         "members": [
             "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-05-01_11622",
+        "date": "2026-05-01",
+        "category": "テレビ",
+        "time": "25:59～",
+        "title": "日本テレビ「夜バケット」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11622?ima=0000",
+        "members": [
+            "正源司 陽子"
         ]
     },
     {
