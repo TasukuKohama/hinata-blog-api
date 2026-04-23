@@ -1950,7 +1950,7 @@
         "id": "2026-04-24_11614",
         "date": "2026-04-24",
         "category": "テレビ",
-        "time": "17:00～",
+        "time": "16:50～",
         "title": "MRT宮崎放送「Check！」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11614?ima=0000",
         "members": [
@@ -2025,6 +2025,30 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11617?ima=0000",
         "members": [
             "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-04-25_11619",
+        "date": "2026-04-25",
+        "category": "テレビ",
+        "time": "12:00～12:20",
+        "title": "MRTテレビ「つづくさんのどようだよ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11619?ima=0000",
+        "members": [
+            "平岡 海月",
+            "藤嶌 果歩"
+        ]
+    },
+    {
+        "id": "2026-04-25_11620",
+        "date": "2026-04-25",
+        "category": "ラジオ",
+        "time": "12:40～12:50",
+        "title": "MRTラジオ「超★ドッキングラジオ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11620?ima=0000",
+        "members": [
+            "平岡 海月",
+            "藤嶌 果歩"
         ]
     },
     {
