@@ -996,6 +996,17 @@
         "members": []
     },
     {
+        "id": "2026-07-03_11831",
+        "date": "2026-07-03",
+        "category": "雑誌",
+        "time": "",
+        "title": "「日経エンタテインメント！」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11831?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-07-03_11521",
         "date": "2026-07-03",
         "category": "ラジオ",
@@ -1006,6 +1017,19 @@
             "髙橋 未来虹",
             "藤嶌 果歩",
             "山下 葉留花"
+        ]
+    },
+    {
+        "id": "2026-07-03_11828",
+        "date": "2026-07-03",
+        "category": "配信",
+        "time": "21:00～",
+        "title": "ABEMA「カンニング竹山のイチバン研究所」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11828?ima=0000",
+        "members": [
+            "髙橋 未来虹",
+            "竹内 希来里",
+            "渡辺 莉奈"
         ]
     },
     {
@@ -1031,12 +1055,21 @@
         ]
     },
     {
-        "id": "2026-07-04_11525",
+        "id": "2026-07-04_11832",
         "date": "2026-07-04",
-        "category": "雑誌",
-        "time": "",
-        "title": "「日経エンタテインメント！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11525?ima=0000",
+        "category": "テレビ",
+        "time": "13:30～22:54",
+        "title": "日本テレビ「THE MUSIC DAY 2026」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11832?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-07-04_10118",
+        "date": "2026-07-04",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
         "members": [
             "平尾 帆夏"
         ]
@@ -1078,6 +1111,26 @@
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-07-05_11806",
+        "date": "2026-07-05",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-07-06_11833",
+        "date": "2026-07-06",
+        "category": "テレビ",
+        "time": "19:00～",
+        "title": "日本テレビ「有吉ゼミ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11833?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
     },
     {
         "id": "2026-07-06_10858",
@@ -1146,6 +1199,17 @@
         ]
     },
     {
+        "id": "2026-07-11_10118",
+        "date": "2026-07-11",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-07-12_9892",
         "date": "2026-07-12",
         "category": "ラジオ",
@@ -1172,6 +1236,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-07-12_11806",
+        "date": "2026-07-12",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -1292,6 +1365,17 @@
         ]
     },
     {
+        "id": "2026-07-18_10118",
+        "date": "2026-07-18",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-07-19_11738",
         "date": "2026-07-19",
         "category": "ミート＆グリート",
@@ -1327,6 +1411,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-07-19_11806",
+        "date": "2026-07-19",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -1429,6 +1522,17 @@
         ]
     },
     {
+        "id": "2026-07-25_10118",
+        "date": "2026-07-25",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-07-26_9892",
         "date": "2026-07-26",
         "category": "ラジオ",
@@ -1455,6 +1559,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-07-26_11806",
+        "date": "2026-07-26",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -1566,6 +1679,17 @@
         ]
     },
     {
+        "id": "2026-08-01_10118",
+        "date": "2026-08-01",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-08-02_9892",
         "date": "2026-08-02",
         "category": "ラジオ",
@@ -1595,6 +1719,15 @@
         "members": []
     },
     {
+        "id": "2026-08-02_11806",
+        "date": "2026-08-02",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
+        "members": []
+    },
+    {
         "id": "2026-08-03_10858",
         "date": "2026-08-03",
         "category": "ラジオ",
@@ -1606,12 +1739,12 @@
         ]
     },
     {
-        "id": "2026-08-04_11525",
+        "id": "2026-08-04_11830",
         "date": "2026-08-04",
         "category": "雑誌",
         "time": "",
         "title": "「日経エンタテインメント！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11525?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11830?ima=0000",
         "members": [
             "平尾 帆夏"
         ]
@@ -1732,6 +1865,17 @@
         "members": []
     },
     {
+        "id": "2026-08-08_10118",
+        "date": "2026-08-08",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-08-09_11739",
         "date": "2026-08-09",
         "category": "ミート＆グリート",
@@ -1767,6 +1911,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-08-09_11806",
+        "date": "2026-08-09",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -1862,6 +2015,17 @@
         ]
     },
     {
+        "id": "2026-08-15_10118",
+        "date": "2026-08-15",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-08-16_11687",
         "date": "2026-08-16",
         "category": "ライブ",
@@ -1902,6 +2066,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-08-16_11806",
+        "date": "2026-08-16",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2022,6 +2195,17 @@
         ]
     },
     {
+        "id": "2026-08-22_10118",
+        "date": "2026-08-22",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-08-23_11696",
         "date": "2026-08-23",
         "category": "雑誌",
@@ -2073,6 +2257,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-08-23_11806",
+        "date": "2026-08-23",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2143,6 +2336,17 @@
         ]
     },
     {
+        "id": "2026-08-29_10118",
+        "date": "2026-08-29",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-08-30_9892",
         "date": "2026-08-30",
         "category": "ラジオ",
@@ -2169,6 +2373,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-08-30_11806",
+        "date": "2026-08-30",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2214,12 +2427,12 @@
         "members": []
     },
     {
-        "id": "2026-09-04_11525",
+        "id": "2026-09-04_11830",
         "date": "2026-09-04",
         "category": "雑誌",
         "time": "",
         "title": "「日経エンタテインメント！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11525?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11830?ima=0000",
         "members": [
             "平尾 帆夏"
         ]
@@ -2270,6 +2483,17 @@
         "members": []
     },
     {
+        "id": "2026-09-05_10118",
+        "date": "2026-09-05",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-09-06_9892",
         "date": "2026-09-06",
         "category": "ラジオ",
@@ -2296,6 +2520,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-09-06_11806",
+        "date": "2026-09-06",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2399,6 +2632,17 @@
         ]
     },
     {
+        "id": "2026-09-12_10118",
+        "date": "2026-09-12",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-09-13_9892",
         "date": "2026-09-13",
         "category": "ラジオ",
@@ -2425,6 +2669,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-09-13_11806",
+        "date": "2026-09-13",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2506,6 +2759,17 @@
         ]
     },
     {
+        "id": "2026-09-19_10118",
+        "date": "2026-09-19",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-09-20_11466",
         "date": "2026-09-20",
         "category": "雑誌",
@@ -2552,6 +2816,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-09-20_11806",
+        "date": "2026-09-20",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2644,6 +2917,17 @@
         ]
     },
     {
+        "id": "2026-09-26_10118",
+        "date": "2026-09-26",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-09-27_3287",
         "date": "2026-09-27",
         "category": "誕生日",
@@ -2681,6 +2965,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-09-27_11806",
+        "date": "2026-09-27",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2773,12 +3066,23 @@
         ]
     },
     {
-        "id": "2026-10-04_11525",
+        "id": "2026-10-03_10118",
+        "date": "2026-10-03",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-10-04_11830",
         "date": "2026-10-04",
         "category": "雑誌",
         "time": "",
         "title": "「日経エンタテインメント！」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11525?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11830?ima=0000",
         "members": [
             "平尾 帆夏"
         ]
@@ -2810,6 +3114,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-10-04_11806",
+        "date": "2026-10-04",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2880,6 +3193,17 @@
         ]
     },
     {
+        "id": "2026-10-10_10118",
+        "date": "2026-10-10",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-10-11_9892",
         "date": "2026-10-11",
         "category": "ラジオ",
@@ -2906,6 +3230,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-10-11_11806",
+        "date": "2026-10-11",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -2987,6 +3320,17 @@
         ]
     },
     {
+        "id": "2026-10-17_10118",
+        "date": "2026-10-17",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-10-18_9892",
         "date": "2026-10-18",
         "category": "ラジオ",
@@ -3013,6 +3357,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-10-18_11806",
+        "date": "2026-10-18",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -3116,6 +3469,17 @@
         ]
     },
     {
+        "id": "2026-10-24_10118",
+        "date": "2026-10-24",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-10-25_9892",
         "date": "2026-10-25",
         "category": "ラジオ",
@@ -3142,6 +3506,15 @@
         "time": "25:50～",
         "title": "Lemino「日向坂で会いましょう」見逃し配信",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11666?ima=0000",
+        "members": []
+    },
+    {
+        "id": "2026-10-25_11806",
+        "date": "2026-10-25",
+        "category": "配信",
+        "time": "25:50～",
+        "title": "Lemino「まだまだ！日向坂で会いましょう」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11806?ima=0000",
         "members": []
     },
     {
@@ -3209,6 +3582,17 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
         "members": [
             "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-10-31_10118",
+        "date": "2026-10-31",
+        "category": "ラジオ",
+        "time": "8:30～",
+        "title": "エフエム山陰「日向坂46 平尾帆夏のひら砲らじお」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
+        "members": [
+            "平尾 帆夏"
         ]
     }
 ]
