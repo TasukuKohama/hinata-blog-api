@@ -1533,6 +1533,17 @@
         ]
     },
     {
+        "id": "2026-08-21_12005",
+        "date": "2026-08-21",
+        "category": "雑誌",
+        "time": "",
+        "title": "「VOCE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12005?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
+    },
+    {
         "id": "2026-08-21_5192",
         "date": "2026-08-21",
         "category": "雑誌",
@@ -1540,6 +1551,29 @@
         "title": "「FRIDAY」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-08-21_12004",
+        "date": "2026-08-21",
+        "category": "雑誌",
+        "time": "",
+        "title": "「CanCam」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12004?ima=0000",
+        "members": [
+            "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-08-21_12006",
+        "date": "2026-08-21",
+        "category": "雑誌",
+        "time": "",
+        "title": "「BRODY」10月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12006?ima=0000",
+        "members": [
+            "大田 美月",
+            "高井 俐香"
+        ]
     },
     {
         "id": "2026-08-21_11521",
@@ -1565,6 +1599,18 @@
         "members": []
     },
     {
+        "id": "2026-08-21_12002",
+        "date": "2026-08-21",
+        "category": "配信",
+        "time": "21:00～",
+        "title": "ABEMA「カンニング竹山のイチバン研究所」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12002?ima=0000",
+        "members": [
+            "森本 茉莉",
+            "竹内 希来里"
+        ]
+    },
+    {
         "id": "2026-08-21_11487",
         "date": "2026-08-21",
         "category": "ラジオ",
@@ -1587,14 +1633,14 @@
         ]
     },
     {
-        "id": "2026-08-22_11679",
-        "date": "2026-08-22",
-        "category": "雑誌",
-        "time": "",
-        "title": "「VOCE」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11679?ima=0000",
+        "id": "2026-08-21_12001",
+        "date": "2026-08-21",
+        "category": "テレビ",
+        "time": "25:15～",
+        "title": "テレビ朝日「ラブ!!Jリーグ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12001?ima=0000",
         "members": [
-            "金村 美玖"
+            "宮地 すみれ"
         ]
     },
     {
@@ -1606,17 +1652,6 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
         "members": [
             "平尾 帆夏"
-        ]
-    },
-    {
-        "id": "2026-08-23_11696",
-        "date": "2026-08-23",
-        "category": "雑誌",
-        "time": "",
-        "title": "「CanCam」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11696?ima=0000",
-        "members": [
-            "大野 愛実"
         ]
     },
     {
@@ -1672,6 +1707,29 @@
         "members": []
     },
     {
+        "id": "2026-08-24_12009",
+        "date": "2026-08-24",
+        "category": "雑誌",
+        "time": "",
+        "title": "「月刊ジャイアンツ」2026年10月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12009?ima=0000",
+        "members": [
+            "石塚 瑶季"
+        ]
+    },
+    {
+        "id": "2026-08-24_12008",
+        "date": "2026-08-24",
+        "category": "雑誌",
+        "time": "",
+        "title": "「B.L.T. SUMMER CANDY 2026」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12008?ima=0000",
+        "members": [
+            "渡辺 莉奈",
+            "坂井 新奈"
+        ]
+    },
+    {
         "id": "2026-08-24_11965",
         "date": "2026-08-24",
         "category": "テレビ",
@@ -1679,6 +1737,18 @@
         "title": "宮崎ケーブルテレビ「まるっと!」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11965?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-08-24_12007",
+        "date": "2026-08-24",
+        "category": "ラジオ",
+        "time": "20:00～",
+        "title": "TOKYO FM「エフエムレインボー」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12007?ima=0000",
+        "members": [
+            "竹内 希来里",
+            "佐藤 優羽"
+        ]
     },
     {
         "id": "2026-08-24_10858",
@@ -2269,23 +2339,12 @@
         ]
     },
     {
-        "id": "2026-09-22_11679",
-        "date": "2026-09-22",
-        "category": "雑誌",
-        "time": "",
-        "title": "「VOCE」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11679?ima=0000",
-        "members": [
-            "金村 美玖"
-        ]
-    },
-    {
-        "id": "2026-09-23_11696",
+        "id": "2026-09-23_12003",
         "date": "2026-09-23",
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11696?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12003?ima=0000",
         "members": [
             "大野 愛実"
         ]
@@ -2821,17 +2880,6 @@
         ]
     },
     {
-        "id": "2026-10-22_11679",
-        "date": "2026-10-22",
-        "category": "雑誌",
-        "time": "",
-        "title": "「VOCE」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11679?ima=0000",
-        "members": [
-            "金村 美玖"
-        ]
-    },
-    {
         "id": "2026-10-22_11486",
         "date": "2026-10-22",
         "category": "ラジオ",
@@ -2852,12 +2900,12 @@
         "members": []
     },
     {
-        "id": "2026-10-23_11696",
+        "id": "2026-10-23_12003",
         "date": "2026-10-23",
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11696?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12003?ima=0000",
         "members": [
             "大野 愛実"
         ]
@@ -3418,17 +3466,6 @@
         ]
     },
     {
-        "id": "2026-11-22_11679",
-        "date": "2026-11-22",
-        "category": "雑誌",
-        "time": "",
-        "title": "「VOCE」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11679?ima=0000",
-        "members": [
-            "金村 美玖"
-        ]
-    },
-    {
         "id": "2026-11-22_9892",
         "date": "2026-11-22",
         "category": "ラジオ",
@@ -3467,12 +3504,12 @@
         "members": []
     },
     {
-        "id": "2026-11-23_11696",
+        "id": "2026-11-23_12003",
         "date": "2026-11-23",
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11696?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12003?ima=0000",
         "members": [
             "大野 愛実"
         ]
