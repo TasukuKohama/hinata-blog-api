@@ -1480,17 +1480,6 @@
         ]
     },
     {
-        "id": "2026-08-18_11999",
-        "date": "2026-08-18",
-        "category": "テレビ",
-        "time": "19:40～",
-        "title": "NHK Eテレ「理科チューバーズ」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11999?ima=0000",
-        "members": [
-            "宮地 すみれ"
-        ]
-    },
-    {
         "id": "2026-08-18_12000",
         "date": "2026-08-18",
         "category": "テレビ",
@@ -1597,6 +1586,17 @@
         "title": "宮崎ケーブルテレビ「まるっと!」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11965?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-08-21_11999",
+        "date": "2026-08-21",
+        "category": "テレビ",
+        "time": "16:05～",
+        "title": "NHK Eテレ「理科チューバーズ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11999?ima=0000",
+        "members": [
+            "宮地 すみれ"
+        ]
     },
     {
         "id": "2026-08-21_12002",
