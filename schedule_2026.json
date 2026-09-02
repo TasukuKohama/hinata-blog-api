@@ -1235,7 +1235,7 @@
         "date": "2026-09-03",
         "category": "イベント",
         "time": "",
-        "title": "日向市駅(日向坂46駅) 出発式",
+        "title": "※開催中止※　日向市駅(日向坂46駅) 出発式",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/12050?ima=0000",
         "members": [
             "髙橋 未来虹",
@@ -1247,7 +1247,7 @@
         "date": "2026-09-03",
         "category": "テレビ",
         "time": "16:50～",
-        "title": "MRT宮崎放送「Check！」",
+        "title": "※出演中止※　MRT宮崎放送「Check！」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/12053?ima=0000",
         "members": [
             "髙橋 未来虹",
@@ -1349,7 +1349,7 @@
         "date": "2026-09-05",
         "category": "ライブ",
         "time": "",
-        "title": "「ひなたフェス2026」",
+        "title": "※開催中止※「ひなたフェス2026」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/11736?ima=0000",
         "members": []
     },
@@ -1363,6 +1363,15 @@
         "members": [
             "平尾 帆夏"
         ]
+    },
+    {
+        "id": "2026-09-06_11736",
+        "date": "2026-09-06",
+        "category": "ライブ",
+        "time": "",
+        "title": "※開催中止※「ひなたフェス2026」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/11736?ima=0000",
+        "members": []
     },
     {
         "id": "2026-09-06_9892",
