@@ -686,12 +686,12 @@
         "members": []
     },
     {
-        "id": "2026-08-20_11915",
+        "id": "2026-08-20_12098",
         "date": "2026-08-20",
         "category": "雑誌",
         "time": "",
         "title": "「non-no」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11915?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12098?ima=0000",
         "members": [
             "小坂 菜緒"
         ]
@@ -1677,6 +1677,28 @@
         ]
     },
     {
+        "id": "2026-09-16_12096",
+        "date": "2026-09-16",
+        "category": "配信",
+        "time": "21:00～",
+        "title": "SHOWROOM配信(佐藤優羽)",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12096?ima=0000",
+        "members": [
+            "佐藤 優羽"
+        ]
+    },
+    {
+        "id": "2026-09-16_12095",
+        "date": "2026-09-16",
+        "category": "テレビ",
+        "time": "24:21～",
+        "title": "テレビ朝日「AI大作戦」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12095?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
         "id": "2026-09-17_11486",
         "date": "2026-09-17",
         "category": "ラジオ",
@@ -1695,6 +1717,17 @@
         "title": "「FRIDAY」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-09-18_12097",
+        "date": "2026-09-18",
+        "category": "雑誌",
+        "time": "",
+        "title": "「non-no」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12097?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
     },
     {
         "id": "2026-09-18_11521",
@@ -1748,6 +1781,30 @@
         ]
     },
     {
+        "id": "2026-09-19_12100",
+        "date": "2026-09-19",
+        "category": "テレビ",
+        "time": "20:00～",
+        "title": "NHK「沼にハマってきいてみた」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12100?ima=0000",
+        "members": [
+            "金村 美玖",
+            "上村 ひなの"
+        ]
+    },
+    {
+        "id": "2026-09-19_12101",
+        "date": "2026-09-19",
+        "category": "テレビ",
+        "time": "26:25～",
+        "title": "テレビ新広島「日向坂46竹内希来里の地元できらる」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12101?ima=0000",
+        "members": [
+            "竹内 希来里",
+            "平岡 海月"
+        ]
+    },
+    {
         "id": "2026-09-19_10118",
         "date": "2026-09-19",
         "category": "ラジオ",
@@ -1756,17 +1813,6 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/10118?ima=0000",
         "members": [
             "平尾 帆夏"
-        ]
-    },
-    {
-        "id": "2026-09-20_11915",
-        "date": "2026-09-20",
-        "category": "雑誌",
-        "time": "",
-        "title": "「non-no」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11915?ima=0000",
-        "members": [
-            "小坂 菜緒"
         ]
     },
     {
@@ -1828,14 +1874,48 @@
         ]
     },
     {
-        "id": "2026-09-23_12003",
-        "date": "2026-09-23",
+        "id": "2026-09-24_12102",
+        "date": "2026-09-24",
+        "category": "雑誌",
+        "time": "",
+        "title": "「週刊少年マガジン」43号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12102?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-09-24_12105",
+        "date": "2026-09-24",
+        "category": "雑誌",
+        "time": "",
+        "title": "「VOCE」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12105?ima=0000",
+        "members": [
+            "金村 美玖"
+        ]
+    },
+    {
+        "id": "2026-09-24_12104",
+        "date": "2026-09-24",
         "category": "雑誌",
         "time": "",
         "title": "「CanCam」",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/12003?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12104?ima=0000",
         "members": [
             "大野 愛実"
+        ]
+    },
+    {
+        "id": "2026-09-24_12106",
+        "date": "2026-09-24",
+        "category": "雑誌",
+        "time": "",
+        "title": "「アップトゥボーイ」vol.367",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12106?ima=0000",
+        "members": [
+            "正源司 陽子",
+            "片山 紗希"
         ]
     },
     {
@@ -1892,6 +1972,32 @@
         "url": "https://www.hinatazaka46.com/s/official/media/detail/10111?ima=0000",
         "members": [
             "小坂 菜緒"
+        ]
+    },
+    {
+        "id": "2026-09-26_12107",
+        "date": "2026-09-26",
+        "category": "イベント",
+        "time": "14:30～",
+        "title": "「Rakuten GirlsAward 2026 AUTUMN/WINTER」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12107?ima=0000",
+        "members": [
+            "金村 美玖",
+            "小坂 菜緒",
+            "藤嶌 果歩",
+            "大野 愛実",
+            "松尾 桜"
+        ]
+    },
+    {
+        "id": "2026-09-26_12108",
+        "date": "2026-09-26",
+        "category": "テレビ",
+        "time": "24:55～",
+        "title": "テレビ愛知「大須テレビ」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12108?ima=0000",
+        "members": [
+            "山下 葉留花"
         ]
     },
     {
@@ -1955,6 +2061,18 @@
         "members": []
     },
     {
+        "id": "2026-09-28_12111",
+        "date": "2026-09-28",
+        "category": "雑誌",
+        "time": "",
+        "title": "「B.L.T.」11月号",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12111?ima=0000",
+        "members": [
+            "大野 愛実",
+            "鶴崎 仁香"
+        ]
+    },
+    {
         "id": "2026-09-28_10858",
         "date": "2026-09-28",
         "category": "ラジオ",
@@ -1995,6 +2113,17 @@
         "title": "「FRIDAY」",
         "url": "https://www.hinatazaka46.com/s/official/media/detail/5192?ima=0000",
         "members": []
+    },
+    {
+        "id": "2026-10-02_12110",
+        "date": "2026-10-02",
+        "category": "雑誌",
+        "time": "",
+        "title": "「blt graph.」Vol.116",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12110?ima=0000",
+        "members": [
+            "小西 夏菜実"
+        ]
     },
     {
         "id": "2026-10-02_11521",
@@ -3069,6 +3198,15 @@
         "members": [
             "小坂 菜緒"
         ]
+    },
+    {
+        "id": "2026-11-28_12109",
+        "date": "2026-11-28",
+        "category": "ライブ",
+        "time": "",
+        "title": "「GIFT ～Girls Idol Festival Tokyo～」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12109?ima=0000",
+        "members": []
     },
     {
         "id": "2026-11-28_10118",
