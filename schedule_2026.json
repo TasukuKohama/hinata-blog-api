@@ -1186,6 +1186,39 @@
         ]
     },
     {
+        "id": "2026-11-11_12366",
+        "date": "2026-11-11",
+        "category": "ラジオ",
+        "time": "16:00～",
+        "title": "bayfm「 シン・ラジオ -ヒューマニスタは、かく語りき-」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12366?ima=0000",
+        "members": [
+            "清水 理央"
+        ]
+    },
+    {
+        "id": "2026-11-11_12365",
+        "date": "2026-11-11",
+        "category": "テレビ",
+        "time": "24:15～",
+        "title": "テレビ朝日「AI大作戦」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12365?ima=0000",
+        "members": [
+            "平尾 帆夏"
+        ]
+    },
+    {
+        "id": "2026-11-12_12367",
+        "date": "2026-11-12",
+        "category": "テレビ",
+        "time": "18:25～",
+        "title": "テレビ東京「そもそもミステリー」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12367?ima=0000",
+        "members": [
+            "小坂 菜緒"
+        ]
+    },
+    {
         "id": "2026-11-12_12122",
         "date": "2026-11-12",
         "category": "ラジオ",
@@ -1215,6 +1248,17 @@
         "members": [
             "森本 茉莉",
             "正源司 陽子"
+        ]
+    },
+    {
+        "id": "2026-11-13_12368",
+        "date": "2026-11-13",
+        "category": "雑誌",
+        "time": "",
+        "title": "「コマーシャル・フォト」連載",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12368?ima=0000",
+        "members": [
+            "金村 美玖"
         ]
     },
     {
@@ -1265,14 +1309,14 @@
         ]
     },
     {
-        "id": "2026-11-15_11771",
+        "id": "2026-11-15_12370",
         "date": "2026-11-15",
-        "category": "雑誌",
-        "time": "",
-        "title": "「コマーシャル・フォト」連載",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11771?ima=0000",
+        "category": "テレビ",
+        "time": "18:05～",
+        "title": "NHK総合「有吉のお金発見　突撃！カネオくん」",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12370?ima=0000",
         "members": [
-            "金村 美玖"
+            "正源司 陽子"
         ]
     },
     {
@@ -1925,12 +1969,12 @@
         ]
     },
     {
-        "id": "2026-12-15_11771",
+        "id": "2026-12-15_12369",
         "date": "2026-12-15",
         "category": "雑誌",
         "time": "",
         "title": "「コマーシャル・フォト」連載",
-        "url": "https://www.hinatazaka46.com/s/official/media/detail/11771?ima=0000",
+        "url": "https://www.hinatazaka46.com/s/official/media/detail/12369?ima=0000",
         "members": [
             "金村 美玖"
         ]
